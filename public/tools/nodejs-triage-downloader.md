@@ -78,9 +78,9 @@ npm install cli-progress --save
 * 200 samples with `USE_CHUNK_DOWNLOAD` set to `true` - 10 seconds
 
 ### How does the Chunk Download work?
-  <p class="tip"> THIS FEATURE IS EXPERIMENTAL AND MAY NOT WORK PROPERLY</p>
-  
-* The script querys the samples into chunks
+<p class="tip"> THIS FEATURE IS EXPERIMENTAL AND MAY NOT WORK PROPERLY</p>
+
+* The script querys the samples into chunks.
 * After the chunks are collected, the script downloads the files in the chunks
 * 20 (default) files per chunk in the same time
 * That can create an heavy load on the triage API and may result in rate limit errors
