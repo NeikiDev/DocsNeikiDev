@@ -10,8 +10,6 @@ To get started with Analyze.neiki.dev, simply enter the SHA256 hash of the  <br>
 file you want to analyze into the search bar on the homepage. <br>
 Our tool will then scan the file and generate a detailed report summarizing its findings.
 
-<p class="warn">Last updated: 12.03.2023</p>
-
 [Generate Report Here](https://analyze.neiki.dev/search.html) <br>
 `https://analyze.neiki.dev/search.html`
 

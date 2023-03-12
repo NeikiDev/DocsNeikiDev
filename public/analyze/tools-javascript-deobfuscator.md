@@ -4,8 +4,6 @@ The JavaScript Deobfuscator is a powerful tool for decoding and deobfuscating <b
 JavaScript code that has been obfuscated using various techniques. Our tool uses advanced algorithms <br>
 to analyze and decode obfuscated code, making it readable and usable again.
 
-<p class="warn">Last updated: 12.03.2023</p>
-
 **[Use it here](https://analyze.neiki.dev/tools/deobfuscate-javascript)** <br>
 `https://analyze.neiki.dev/tools/deobfuscate-javascript`
 
