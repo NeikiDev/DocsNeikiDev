@@ -2,6 +2,8 @@
 
 <p class="tip">THE API IS CURRENTLY PRIVATE</p>
 
+<p class="warn">Last updated: 12.03.2023</p>
+
 ## Config
 
   > The script is located in that path: `https://neiki.dev/analytics/script.js` <br>

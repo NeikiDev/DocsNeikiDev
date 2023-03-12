@@ -4,6 +4,8 @@ The Secure JavaScript Obfuscator is the most advanced tool for protecting your <
 JavaScript code from reverse engineering and tampering. Our obfuscation techniques <br>
 are designed to make your code nearly impossible to read, while still allowing it to run in any browser.
 
+<p class="warn">Last updated: 12.03.2023</p>
+
 **[Use it here](https://analyze.neiki.dev/tools/obfuscate-javascript)** <br>
 `https://analyze.neiki.dev/tools/obfuscate-javascript`
 

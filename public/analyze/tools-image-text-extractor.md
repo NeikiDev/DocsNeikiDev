@@ -6,6 +6,8 @@ technology to analyze images and extract text, making it easy to work with.
 
 <p class="tip"> This tool is in the experimental stage! May change at everytime - get disabled</p>
 
+<p class="warn">Last updated: 12.03.2023</p>
+
 **[Use it here](https://analyze.neiki.dev/tools/image-text-extract)** <br>
 `https://analyze.neiki.dev/tools/image-text-extract`
 
