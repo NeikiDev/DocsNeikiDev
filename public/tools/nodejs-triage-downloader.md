@@ -43,7 +43,7 @@ You need an API key to use the script.
 * `PAGES_TO_DOWNLOAD` (NUMBER) - The amount of pages to download (default: 1) - 200 samples per page
 * `SKIP_ZIP_ARCHIVES` (BOOLEAN) - Skip zip archives (default: true)
 * `KEEP_ORIGINAL_EXTENSION` (BOOLEAN) - Keep the original extension (default: true)
-* `USE_CHUNK_DOWNLOAD` (BOOLEAN) - Use chunk download (default: true) 
+* `USE_CHUNK_DOWNLOAD` (BOOLEAN) - Use chunk download (default: false) 
 * `CHUNK_SIZE` (NUMBER) - The chunk size, (default: 20) - files per chunk
 
 ## Packages and Dependencies
