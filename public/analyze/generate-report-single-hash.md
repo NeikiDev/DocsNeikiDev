@@ -26,6 +26,10 @@ Our tool will then scan the file and generate a detailed report summarizing its 
 * [MetaDefender OPswat](https://metadefender.opswat.com/)
 * [MalwareBazaar](https://bazaar.abuse.ch/)
 
+<p class="tip">SOME FILES ARE MANUALLY CHECKED BY AN HUMAN AND SANDBOX ANALYSIS (THE ARE LABELD)</p>
+
+You can submit a file to be reanalyzed by an human and sandbox analysis at every report. <br>
+
 ## Example full report (API RESPONSE)
 <p class="tip">THE API IS CURRENTLY PRIVATE</p>
 
