@@ -59,21 +59,22 @@ npm install axios --save
 npm install cli-progress --save
 ```
 
-## Installation
+## Installation Guide
 
 > Download Node.js from [here](https://nodejs.org/en/download/) (LTS recommended)
 
-1. Download the script from the source code section´
+1. Download the script from the `source code` section
 2. Open the script in your favorite editor
 3. Change the settings to your needs (see settings section)
-4. Install the dependencies
+5. Open a terminal in the folder where the script is located
+6. Install the dependencies
 ```bash
 npm install axios --save
 ``` 
 ```bash
 npm install cli-progress --save
 ```
-5. Run the script
+7. Run the script
 ```bash
 node Triage-Downloader.js
 ```
