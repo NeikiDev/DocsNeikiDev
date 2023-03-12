@@ -15,7 +15,7 @@
 ## How does it work
 
 The script downloads the newest sample based on the given query parameters and saves it to the given path.
-It uses the [Tri.ge](https://tria.ge/) API to download the samples.
+It uses the [Tria.ge](https://tria.ge/) API to download the samples.
 You need an API key to use the script.
 
 ## Versions and Changelog
@@ -25,7 +25,8 @@ You need an API key to use the script.
 
 #### --LATEST (1.0.1)--
 
-* Excluded ".dmp" files at code line(s) 118 - 112
+* Updated Information at the top of the page.
+* Excluded `.dmp` files. (Code lines: 108 - 112)
 
 #### --1.0.0--
 
