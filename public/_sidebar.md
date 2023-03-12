@@ -3,6 +3,9 @@
 
   * [Introduction](README.md)
 
+* TOOLS & SCRIPTS
+  
+    * [Information](/tools/information.md)
 
 * ANALYZE 
 
@@ -10,6 +13,7 @@
   * [Generate Report](/analyze/generate-report-single-hash.md)
   * [Javascript obfuscator](/analyze/tools-javascript-obfuscator.md)
   * [Javascript deobfuscator](/analyze/tools-javascript-deobfuscator.md)
+  * [Image Text Extractor](/analyze/tools-image-text-extractor.md)
 
 * API
 

@@ -15,7 +15,7 @@ You can view what information and data is send to the api the information sectio
 
 ## Request
 
-> Example full request: `https://api.neiki.dev/analytics/analyze?version={version}&trId={traceLineId}&action={action}`
+> Example full request: `https://api.neiki.dev/analytics/analyze?version={version}&trId={traceId}&action={action}`
 
 * Requests query parameter
   * `version`: The current version the analyze network is using!
