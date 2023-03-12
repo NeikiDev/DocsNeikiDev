@@ -13,10 +13,10 @@
 
 * API
 
-  * [Information](/api/Information.md)
+  * [Information](/api/information.md)
   * [Analytics](/api/website-analytics-script.md)
 
 
 * SUPPORT - HELP
 
-  * [Information](/support/Information.md)
+  * [Information](/support/information.md)
