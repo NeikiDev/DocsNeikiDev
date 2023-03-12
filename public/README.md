@@ -15,9 +15,16 @@ We are constantly updating our documentation to ensure it is up-to-date and rele
 
 Thank you for choosing the `*.neiki.dev` network. We look forward to helping you achieve your goals with our platform.
 
-## Table of Content
+## Table of Content 
 
 * Information about tools from `analyze.neiki.dev`
 * Information about the API of the **NeikiDev** network
 * General information and tools from **NeikiDev**
 * Other feature documentation of `*.neiki.dev`
+
+## Support and Contact
+You can find the contact details in the "Support and Contact" section.
+
+<br>
+
+[Made with Docsify](https://docsify.js.org/#/)
