@@ -34,7 +34,6 @@ You can view what information and data is send to the api the information sectio
 * Added new action `visited` 
 * Added page load tracking 
 * Added automated Bug report
-...
 
 #### **Beta-0.3.1**
 
@@ -44,8 +43,6 @@ You can view what information and data is send to the api the information sectio
 * Removed ip / Geo tracking
 * Removed data saving
 * API improvements
-
-...
 ### **Beta-0.0.1**
 
 * Initial release
@@ -53,8 +50,6 @@ You can view what information and data is send to the api the information sectio
 * Added Tracking cookies
 * Added ip / Geo tracking
 * Added data saving (temporarily)
-
-...
 
 <!-- tabs:end -->
 
