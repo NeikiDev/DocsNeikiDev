@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <title>Documentation</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <link rel="stylesheet" href="./badge.css">
+    <link rel="stylesheet" href="./badge.css" />
     <meta
       name="description"
       content="Documentation for NeikiDev - A developer who loves to code and create things."
@@ -15,6 +15,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
     />
+    <link rel="stylesheet" href="./dropdown.css">
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
@@ -28,6 +29,7 @@
     <script src="/_vercel/insights/script.js"></script>
   </head>
   <body>
+    <nav></nav>
     <div id="app"></div>
     <script>
       window.$docsify = {
@@ -41,9 +43,13 @@
         search: "auto",
         auto2top: true,
         coverpage: false,
-        loadNavbar: true,
+        loadNavbar: false,
         autoHeader: true,
-        loadFooter: true,
+        loadFooter: false,
+        select: {
+          sync: true,
+          theme: "classic",
+        },
         markdown: {
           smartypants: true,
         },
@@ -62,5 +68,8 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
     <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-select@1"></script>
+
+    <!-- https://jthegedus.github.io/docsify-select/#/configuration?id=theme-properties -->
   </body>
 </html>

@@ -1,0 +1,19 @@
+:root {
+  --docsifyselect-menu-container-margin: 8px 4px 0 0;
+  --docsifyselect-menu-label-font-size: 14px;
+  --docisfyselect-menu-label-text-transform: capitalize;
+  --docsifyselect-menu-arrow: url("data:image/svg+xml;utf8,<svg fill='rgb(77, 77, 77)' height='16' width='16' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'><path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'></path></svg>");
+  --docsifyselect-menu-background: #111111;
+  --docsifyselect-menu-border-color: #181818;
+  --docsifyselect-menu-border-radius: 4px;
+  --docsifyselect-menu-border-width: 1px;
+  --docsifyselect-menu-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px,
+    rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+  --docsifyselect-menu-font-size: 16px;
+  --docsifyselect-menu-line-height: 20px;
+  --docsifyselect-menu-margin: 0px;
+  --docsifyselect-menu-padding: 8px 32px 8px 16px;
+  --docisfyselect-menu-width: 256px;
+  --docsifyselect-content-background: inherit;
+  --docsifyselect-content-padding: 0px;
+}
