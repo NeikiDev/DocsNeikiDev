@@ -7,3 +7,5 @@ This is the official ANALYZE documentation for **[analyze.neiki.dev](https://ana
 If you have any questions or run into any issues while using our API, 
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
+
+<p class="warn"> Last updated: 12.03.2023 </p>

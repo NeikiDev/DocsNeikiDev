@@ -28,3 +28,5 @@ You can find the contact details in the "Support and Contact" section.
 <br>
 
 [Made with Docsify](https://docsify.js.org/#/)
+
+<p class="warn"> Last updated: 12.03.2023 </p>

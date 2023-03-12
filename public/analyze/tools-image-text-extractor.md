@@ -32,3 +32,5 @@ and extract the text, making it easy to work with.
 
 ## Support and Contact
 You can find the contact details in the "Support and Contact" section.
+
+<p class="warn"> Last updated: 12.03.2023 </p>

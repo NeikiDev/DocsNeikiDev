@@ -28,3 +28,5 @@ code and provide you with a new, protected version that you can use in your proj
 
 ## Support and Contact
 You can find the contact details in the "Support and Contact" section.
+
+<p class="warn"> Last updated: 12.03.2023 </p>

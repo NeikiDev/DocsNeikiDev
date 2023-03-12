@@ -182,3 +182,6 @@ To get started with the analyze report generator, simply enter the SHA256 hash o
 
 ## Support and Contact
 You can find the contact details in the "Support and Contact" section.
+
+
+<p class="warn"> Last updated: 12.03.2023 </p>
