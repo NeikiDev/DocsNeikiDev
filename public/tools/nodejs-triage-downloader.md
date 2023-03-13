@@ -23,7 +23,13 @@ You need an API key to use the script.
 <!-- select:start -->
 <!-- select-menu-labels:Select Version -->
 
-#### --LATEST (1.0.1)--
+#### --LATEST (1.0.2)--
+
+* Fixed error `Cannot read properties of undefined (reading 'endsWith')` (Code lines: 108 - 108)
+* Added `report.filename` check (Code lines: 49 - 49)
+* Added `file.name` check (Code lines: 108 - 108)
+
+#### --1.0.1--
 
 * Updated Information at the top of the page.
 * Excluded `.dmp` files. (Code lines: 108 - 112)
@@ -110,4 +116,4 @@ node Triage-Downloader.js
 ## Support and Contact
 You can find the contact details in the "Support and Contact" section.
 
-<p class="warn"> Last updated: 12.03.2023 </p>
+<p class="warn"> Last updated: 13.03.2023 </p>
