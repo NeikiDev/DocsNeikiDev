@@ -1,1 +1,1 @@
-[Contact - Support](https://docs.neiki.dev/#/support/information) - [Homepage](https://neiki.dev)
+[Support - Contact](https://docs.neiki.dev/#/support/information) - [Homepage](https://neiki.dev)

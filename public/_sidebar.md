@@ -8,6 +8,8 @@
     * [Information](/tools/information.md)
     * [NodeJS Triage Downloader](/tools/nodejs-triage-downloader.md)
     * [NodeJS Opentip Uploader](/tools/nodejs-kaspersky-opentip-uploader.md)
+    * [Python Nordvpn Cycle](/tools/python-nordvpn-cycle.md)
+    * [Python Discord Defender Beta](/tools/python-discord-defender-beta.md)
 
 * ANALYZE 
 

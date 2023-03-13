@@ -24,6 +24,8 @@ Thank you for choosing the `*.neiki.dev` network. We look forward to helping you
 * [Information](/tools/information.md)
 * [NodeJS Triage Downloader](/tools/nodejs-triage-downloader.md)
 * [NodeJS Opentip Uploader](/tools/nodejs-kaspersky-opentip-uploader.md)
+* [Python Nordvpn Cycle](/tools/python-nordvpn-cycle.md)
+* [Python Discord Defender Beta](python-discord-defender-beta.md)
 
 #### **ANALYZE**
 * [Information](/analyze/information.md)
