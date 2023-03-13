@@ -4,6 +4,8 @@
 
 <p class="tip">You need a Paid Version of Kaspersky Anti-Virus</p>
 
+<p class="tip">You need the Intrusion Prevention settings on your Kaspersky Application </p>
+
 ## Setup the file
 
 * Generate an file with a name you want to use (for example: `BitcoinWallet.txt`) 
