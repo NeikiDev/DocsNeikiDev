@@ -11,6 +11,11 @@
     * [Python Nordvpn Cycle](/tools/python-nordvpn-cycle.md)
     * [Python Discord Defender Beta](/tools/python-discord-defender-beta.md)
 
+* GUIDES
+  
+    * [Information](/guides/information.md)
+    * [Setup trap files with Kaspersky IPS](/guides/setup-trap-files-with-kaspersky-ips.md)
+
 * ANALYZE 
 
   * [Information](/analyze/information.md)
