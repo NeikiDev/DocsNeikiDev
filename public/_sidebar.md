@@ -14,7 +14,7 @@
 * GUIDES
   
     * [Information](/guides/information.md)
-    * [Setup trap files with Kaspersky IPS](/guides/setup-trap-files-with-kaspersky-ips.md)
+    * [Setup Alert files with Kaspersky IPS](/guides/setup-alert-files-with-kaspersky-ips.md)
 
 * ANALYZE 
 

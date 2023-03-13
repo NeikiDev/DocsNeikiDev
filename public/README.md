@@ -29,7 +29,7 @@ Thank you for choosing the `*.neiki.dev` network. We look forward to helping you
 
 #### **GUIDES**
 * [Information](/guides/information.md)
-* [Setup trap files with Kaspersky IPS](/guides/setup-trap-files-with-kaspersky-ips.md)
+* [Setup alert files with Kaspersky IPS](/guides/setup-alert-files-with-kaspersky-ips.md)
 
 #### **ANALYZE**
 * [Information](/analyze/information.md)

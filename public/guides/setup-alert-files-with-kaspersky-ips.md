@@ -1,4 +1,4 @@
-# Setup Trap files with Kaspersky IPS
+# Setup Alert files with Kaspersky IPS
 
 ## What you need
 
