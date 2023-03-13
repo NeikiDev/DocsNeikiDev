@@ -50,14 +50,14 @@
 
 ## Notifications
 
+<p class="warn"> Make sure you selected "Log Events" at all groups </p>
+
 <p class="tip"> Sometimes the Notifcations wont work first time because of the Notifcation Settings of Kaspersky </p>
 
 You will get one of these Notifications if someone or something tries to access the file / folder:
 ![Access](https://cdn.discordapp.com/attachments/1073592385327607942/1084853515542868059/Code_3b6M8vYxUH.png)
 
 ## My settings
-
-<p class="warn"> Make sure you selected "Log Events" at all groups </p>
 
 As in the images shown i restricted all groups to deny all actions of the file / folder. <br>
 Only "Trusted" applications can access the file / folder, but will also notifiy you about it.
