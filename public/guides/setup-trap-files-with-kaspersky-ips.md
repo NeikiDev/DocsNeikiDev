@@ -57,6 +57,9 @@
 You will get one of these Notifications if someone or something tries to access the file / folder:
 ![Access](https://cdn.discordapp.com/attachments/1073592385327607942/1084853515542868059/Code_3b6M8vYxUH.png)
 
+## Guide Video
+![Video](https://cdn.neiki.dev/attachments/41e0d36d02501434a9b9a3c5d42a7f312267b937cd9192ed2bdb9a5631df85f3.mp4 ':include :type=mp4 width=100% controls')
+
 ## My settings
 
 As in the images shown i restricted all groups to deny all actions of the file / folder. <br>
