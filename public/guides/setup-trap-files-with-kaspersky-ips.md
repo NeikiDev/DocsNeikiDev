@@ -17,12 +17,12 @@
 
 * Go to your Security Settings
 
-![Security Settings](https://cdn.discordapp.com/attachments/1072423497634164787/1084848480008278056/avpui_kvFYRxCREr.png)
+![Security Settings](https://cdn.discordapp.com/attachments/1072425032745222314/1084855405785645137/avpui_kvFYRxCREr.png)
 
 * Make sure that the `Intrusion Prevention` is enabled
 * Then click on `Manage resources`
 
-![Manage resources](https://cdn.discordapp.com/attachments/1072423497634164787/1084849120763719793/avpui_wqFS4It07n.png)
+![Manage resources](https://cdn.discordapp.com/attachments/1072425032745222314/1084855306028335104/avpui_wqFS4It07n.png)
 
 * Now click on a folder (for example: `Personal Data`)
 * Then click the **Add** button at the top
