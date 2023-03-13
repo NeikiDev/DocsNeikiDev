@@ -22,7 +22,12 @@ There are 2 upload methods, one that generates an full report based on the respo
 <!-- select:start -->
 <!-- select-menu-labels:Select Version -->
 
-#### --LATEST (1.0.2)--
+#### --LATEST (1.0.3)--
+
+* Fixed ESlint formatting issues
+* Fixed bugs & formatting issues
+
+#### --1.0.2--
 
 * Added the function `generateAllTimeStats` to generate Stats of uploads
 * Added the function `convertMSToHumanReadable` to generate Human readable time
