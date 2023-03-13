@@ -33,7 +33,7 @@ There are 2 upload methods, one that generates an full report based on the respo
 * Added the function `convertMSToHumanReadable` to generate Human readable time
 * Fixed bugs
 
-#### --LATEST (1.0.1)--
+#### --1.0.1--
 
 * Updated Information at the top of the page.
 * Added `DeleteOnComplete` to Settings (Code lines: 14 - 14)
