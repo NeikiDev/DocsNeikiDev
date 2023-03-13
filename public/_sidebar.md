@@ -7,6 +7,7 @@
   
     * [Information](/tools/information.md)
     * [NodeJS Triage Downloader](/tools/nodejs-triage-downloader.md)
+    * [NodeJS Opentip Uploader](/tools/nodejs-kaspersky-opentip-uploader.md)
 
 * ANALYZE 
 
