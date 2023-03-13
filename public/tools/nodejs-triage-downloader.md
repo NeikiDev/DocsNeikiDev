@@ -23,7 +23,12 @@ You need an API key to use the script.
 <!-- select:start -->
 <!-- select-menu-labels:Select Version -->
 
-#### --LATEST (1.0.2)--
+#### --LATEST (1.0.3)--
+
+* Fixed ESlint formatting issues
+* Fixed bugs & formatting issues
+
+#### --1.0.2--
 
 * Fixed error `Cannot read properties of undefined (reading 'endsWith')` (Code lines: 108 - 108)
 * Added `report.filename` check (Code lines: 49 - 49)
