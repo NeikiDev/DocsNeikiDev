@@ -22,6 +22,12 @@ There are 2 upload methods, one that generates an full report based on the respo
 <!-- select:start -->
 <!-- select-menu-labels:Select Version -->
 
+#### --LATEST (1.0.2)--
+
+* Added the function `generateAllTimeStats` to generate Stats of uploads
+* Added the function `convertMSToHumanReadable` to generate Human readable time
+* Fixed bugs
+
 #### --LATEST (1.0.1)--
 
 * Updated Information at the top of the page.
