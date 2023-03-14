@@ -22,7 +22,12 @@ There are 2 upload methods, one that generates an full report based on the respo
 <!-- select:start -->
 <!-- select-menu-labels:Select Version -->
 
-#### --LATEST (1.0.4)--
+#### --1.0.5--
+
+* Added skip check for files above `256mb`
+* Added skip check for files with `0` bytes size
+
+#### --1.0.4--
 
 * Added TeraByte (TB) to stats.
 
