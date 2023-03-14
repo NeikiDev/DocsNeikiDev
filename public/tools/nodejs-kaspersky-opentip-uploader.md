@@ -22,7 +22,11 @@ There are 2 upload methods, one that generates an full report based on the respo
 <!-- select:start -->
 <!-- select-menu-labels:Select Version -->
 
-#### --LATEST (1.0.3)--
+#### --LATEST (1.0.4)--
+
+* Added TeraByte (TB) to stats.
+
+#### --1.0.3--
 
 * Fixed ESlint formatting issues
 * Fixed bugs & formatting issues
@@ -137,4 +141,4 @@ function getFiles(dirPath, fileList = []) {
 ## Support and Contact
 You can find the contact details in the "Support and Contact" section.
 
-<p class="warn"> Last updated: 13.03.2023 </p>
+<p class="warn"> Last updated: 14.03.2023 </p>
