@@ -23,7 +23,12 @@ You need an API key to use the script.
 <!-- select:start -->
 <!-- select-menu-labels:Select Version -->
 
-#### --LATEST (1.0.3)--
+#### --LATEST (1.0.4)--
+
+* Fixed error at `fs.createWriteStream()` if file not exists
+* Added `Try/Catch` handling for `fs.createWriteStream()`
+
+#### --1.0.3--
 
 * Fixed ESlint formatting issues
 * Fixed bugs & formatting issues
@@ -121,4 +126,4 @@ node Triage-Downloader.js
 ## Support and Contact
 You can find the contact details in the "Support and Contact" section.
 
-<p class="warn"> Last updated: 13.03.2023 </p>
+<p class="warn"> Last updated: 14.03.2023 </p>
