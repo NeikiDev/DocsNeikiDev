@@ -22,6 +22,10 @@ There are 2 upload methods, one that generates an full report based on the respo
 <!-- select:start -->
 <!-- select-menu-labels:Select Version -->
 
+#### --LATEST (1.0.5)--
+
+* Bug fixes
+
 #### --1.0.5--
 
 * Added skip check for files above `256mb`
