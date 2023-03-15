@@ -17,6 +17,10 @@
 The script uploads the given file to the Kaspersky OpenTip API and returns the response.
 There are 2 upload methods, one that generates an full report based on the response and one that only returns the response.
 
+## Statistics
+
+### [View the Statistics by JaffaCakes118 and Neiki here](https://analyze.neiki.dev/opentip-upload-stats)
+
 ## Versions and Changelog
 
 <!-- select:start -->
@@ -150,4 +154,4 @@ function getFiles(dirPath, fileList = []) {
 ## Support and Contact
 You can find the contact details in the "Support and Contact" section.
 
-<p class="warn"> Last updated: 14.03.2023 </p>
+<p class="warn"> Last updated: 15.03.2023 </p>
