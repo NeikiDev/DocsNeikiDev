@@ -26,7 +26,10 @@ There are 2 upload methods, one that generates an full report based on the respo
 <!-- select:start -->
 <!-- select-menu-labels:Select Version -->
 
-#### --LATEST (1.0.5)--
+#### --LATEST (1.0.7)--
+
+* Added file size in MegaBytes to console log
+#### --1.0.6--
 
 * Bug fixes
 
