@@ -1,6 +1,6 @@
 # Run full scan with Kaspersky free
 
-:link: You can use that Short link to share this guide: [neiki.dev/ScanExtrem](https://neiki.dev/ScanExtrem) 
+:link: You can use that Short link to share this guide: [https://neiki.dev/ScanExtrem](https://neiki.dev/ScanExtrem) 
 
 ## What you need
 
