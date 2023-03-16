@@ -23,6 +23,10 @@
 
 ![Installation_1](https://cdn.neiki.dev/docs-cdn/kaspersky-installer-en.png)
 
+<p class="tip">Make sure to accept the KSN (Kaspersky Security Network) agreemen<p>
+
+![Installation_2](https://cdn.neiki.dev/docs-cdn/ksn-statement.png)
+
 * If the installation is finished you need to **Login** with your Kaspersky Account 
 * If you dont have an Kaspersky Account it will create an account for you!
 
