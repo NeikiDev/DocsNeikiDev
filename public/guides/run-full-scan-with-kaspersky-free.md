@@ -30,33 +30,33 @@
 * It might have a different name in your language. (For example: `Data provision agreement`)
 * Make sure both `Kaspersky Security Network` is **enabled** (ON)
 
-![Settings](https://cdn.discordapp.com/attachments/1085924508373889024/1085933987404447775/vmware_ulc0QLD0ia.png)
+![Settings](https://cdn.discordapp.com/attachments/1085924508373889024/1085941616444968980/vmware_ulc0QLD0ia.png)
 
-![KSN](https://cdn.discordapp.com/attachments/1085924508373889024/1085934292045148170/vmware_FdtHtAr1hW.png)
+![KSN](https://cdn.discordapp.com/attachments/1085924508373889024/1085941500816412682/vmware_FdtHtAr1hW.png)
 
 ## Run a Full scan Extrem Settings (Kaspersky Free)
 
 * After you logged in you should see the Kaspersky Free Launcher
 
-![Launcher](https://cdn.discordapp.com/attachments/1085924508373889024/1085933219905552474/image.png)
+![Launcher](https://cdn.discordapp.com/attachments/1085924508373889024/1085942193530867803/vmware_XtwNDloHRZ.png)
 
 * Go to the second tab `Security` and click on `Choose Scan`
 
-![Security](https://cdn.discordapp.com/attachments/1085924508373889024/1085933437610905722/image.png)
+![Security](https://cdn.discordapp.com/attachments/1085924508373889024/1085942443234570271/vmware_eHNB5GdO3w.png)
 
 * Click on the **Full scan** settings button on the right side
 
-![fullscan](https://cdn.discordapp.com/attachments/1085924508373889024/1085935306513055876/vmware_3i9KnLlUBc.png)
+![fullscan](https://cdn.discordapp.com/attachments/1085924508373889024/1085941314480263199/vmware_3i9KnLlUBc.png)
 
 * **Move the slider to the top** to enable **Extrem Settings**
 * Click on `Save` to save your settings
 * Confirum the settings by clicking on `I confirm`
 
-![extrem](https://cdn.discordapp.com/attachments/1085924508373889024/1085935604266696776/vmware_ZJMs6ZaH4q.png)
+![extrem](https://cdn.discordapp.com/attachments/1085924508373889024/1085941223501615165/vmware_ZJMs6ZaH4q.png)
 
 * Go back to the `Scan` site and click on `Run Scan` at the **Full scan** section
 
-![run](https://cdn.discordapp.com/attachments/1085924508373889024/1085936253578514452/vmware_Pxgp1q63be.png)
+![run](https://cdn.discordapp.com/attachments/1085924508373889024/1085940994488402031/vmware_Pxgp1q63be.png)
 
 <p class="tip"> Now let the Full scan finish - It take some time, more information below! </p>
 
