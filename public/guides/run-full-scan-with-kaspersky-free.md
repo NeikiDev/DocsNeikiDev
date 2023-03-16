@@ -10,6 +10,7 @@
 
 * Download and install Kaspersky Free
 * [Download here](https://kaspersky.com/free-antivirus) 
+* `https://kaspersky.com/free-antivirus`
 * Open Kaspersky Free Launcher you just downloaded
 
 ## Install Process (Kaspersky Free)
