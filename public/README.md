@@ -30,6 +30,7 @@ Thank you for choosing the `*.neiki.dev` network. We look forward to helping you
 #### **GUIDES**
 * [Information](/guides/information.md)
 * [Setup alert files with Kaspersky IPS](/guides/setup-alert-files-with-kaspersky-ips.md)
+* [Run full scan with Kaspersky](/guides/run-full-scan-with-kaspersky-free.md)
 
 #### **ANALYZE**
 * [Information](/analyze/information.md)

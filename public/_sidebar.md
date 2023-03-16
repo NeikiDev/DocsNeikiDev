@@ -15,6 +15,7 @@
   
     * [Information](/guides/information.md)
     * [Setup Alert files with Kaspersky IPS](/guides/setup-alert-files-with-kaspersky-ips.md)
+    * [Run full scan with Kaspersky](/guides/run-full-scan-with-kaspersky-free.md)
 
 * ANALYZE 
 

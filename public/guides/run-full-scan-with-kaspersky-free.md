@@ -1,0 +1,91 @@
+# Run full scan with Kaspersky free
+
+## What you need
+
+> Please download the latest version of Kaspersky Free from [here](https://kaspersky.com/free-antivirus) <br>
+
+## Setup Kaspersky free
+
+* Download and install Kaspersky Free
+* [Download here](https://kaspersky.com/free-antivirus) 
+* Open Kaspersky Free Launcher you just downloaded
+
+## Install Process (Kaspersky Free)
+
+* Go to your `downloads` folder and double click the `Kaspersky Installer` .exe
+* You should see a Window like this (*Depends on Versions and Country*)
+* Make sure you selected **I want to participate in Kaspersky Security Network** (KSN)
+* Accept all agrements and click **Next**
+* Click **Install** and wait until the installation is finished
+
+![Installation_1](https://cdn.discordapp.com/attachments/1085924508373889024/1085929838612844544/image.png)
+
+* If the installation is finished you need to **Login** with your Kaspersky Account 
+* If you dont have an Kaspersky Account it will create an account for you!
+
+## Check if KSN (Kaspersky Security Network) is enabled
+
+* Go to the second tab `Security` and click on `Settings icon` on the right side
+* Scroll down to `Advanced protection` 
+* It might have a different name in your language. (For example: `Data provision agreement`)
+* Make sure both `Kaspersky Security Network` is **enabled** (ON)
+
+![Settings](https://cdn.discordapp.com/attachments/1085924508373889024/1085933987404447775/vmware_ulc0QLD0ia.png)
+
+![KSN](https://cdn.discordapp.com/attachments/1085924508373889024/1085934292045148170/vmware_FdtHtAr1hW.png)
+
+## Run a Full scan Extrem Settings (Kaspersky Free)
+
+* After you logged in you should see the Kaspersky Free Launcher
+
+![Launcher](https://cdn.discordapp.com/attachments/1085924508373889024/1085933219905552474/image.png)
+
+* Go to the second tab `Security` and click on `Choose Scan`
+
+![Security](https://cdn.discordapp.com/attachments/1085924508373889024/1085933437610905722/image.png)
+
+* Click on the **Full scan** settings button on the right side
+
+![fullscan](https://cdn.discordapp.com/attachments/1085924508373889024/1085935306513055876/vmware_3i9KnLlUBc.png)
+
+* **Move the slider to the top** to enable **Extrem Settings**
+* Click on `Save` to save your settings
+* Confirum the settings by clicking on `I confirm`
+
+![extrem](https://cdn.discordapp.com/attachments/1085924508373889024/1085935604266696776/vmware_ZJMs6ZaH4q.png)
+
+* Go back to the `Scan` site and click on `Run Scan` at the **Full scan** section
+
+![run](https://cdn.discordapp.com/attachments/1085924508373889024/1085936253578514452/vmware_Pxgp1q63be.png)
+
+<p class="tip"> Now let the Full scan finish - It take some time, more information below! </p>
+
+## Information
+
+### How long does a Full scan take?
+ 
+* It depends on your hardware and how many files you have on your computer. <br>
+* It can take some hours to finish a Full scan. <br>
+
+### What is Kaspersky Security Network (KSN)?
+
+* Kaspersky Security Network (KSN) is a cloud-based service that helps to <br> protect your computer from new and emerging threats. <br>
+* You can read more about KSN [here](https://www.kaspersky.com/ksn) <br>
+
+### What is the difference between a Full scan and a Quick scan?
+
+* A Full scan checks every file on your computer. <br>
+* A Quick scan checks only the most important files on your computer. <br>
+
+### Can i use my computer while a scan is running?
+
+* Yes, you can use your computer while a scan is running. <br>
+* But it is recommended to not use your computer while a Full scan is running. <br>
+* It can slow down your computer and the scan can take longer. <br>
+
+## Support and Contact
+If you have any questions or run into any issues while using our Docs or Guides,  <br>
+please don't hesitate to contact us. <br>
+You can find our contact information in the Support and Contact section.
+
+<p class="warn"> Last updated: 16.03.2023 - Guide written by NeikiDev </p>
