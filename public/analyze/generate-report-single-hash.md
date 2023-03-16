@@ -1,6 +1,6 @@
 # Generate an Full report of one single Hash
 
-:link: You can use that Short link to share this guide: [link.neiki.dev/GenerateReport](https://link.neiki.dev/GenerateReport) :link: 
+:link: You can use that Short link to share this guide: [neiki.dev/GenerateReport](https://neiki.dev/GenerateReport) :link: 
 
 ## How does it work
 
