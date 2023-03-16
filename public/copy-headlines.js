@@ -73,7 +73,7 @@ function LoadCopyPluginFunction() {
         const h2s_new = document.querySelectorAll('h2')
         const h3s_new = document.querySelectorAll('h3')
         const h4s_new = document.querySelectorAll('h4')
-        
+
 
         h1s_new.forEach(header => {
             header.addEventListener('click', () => {
@@ -90,7 +90,7 @@ function LoadCopyPluginFunction() {
                 })
             })
         })
-    
+
         h2s_new.forEach(header => {
             header.addEventListener('click', () => {
                 const currentURL = window.location.href.split("?")[0].split("#")[1]
@@ -106,7 +106,7 @@ function LoadCopyPluginFunction() {
                 })
             })
         })
-    
+
         h3s_new.forEach(header => {
             header.addEventListener('click', () => {
                 const currentURL = window.location.href.split("?")[0].split("#")[1]
@@ -122,7 +122,7 @@ function LoadCopyPluginFunction() {
                 })
             })
         })
-    
+
         h4s_new.forEach(header => {
             header.addEventListener('click', () => {
                 const currentURL = window.location.href.split("?")[0].split("#")[1]
