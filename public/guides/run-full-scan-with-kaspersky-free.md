@@ -52,7 +52,7 @@
 * Click on `Save` to save your settings
 * Confirum the settings by clicking on `I confirm`
 
-![extrem](https://cdn.neiki.dev/docs-cdn/kaspersky-extrem.ong)
+![extrem](https://cdn.neiki.dev/docs-cdn/kaspersky-extrem.png)
 
 * Go back to the `Scan` site and click on `Run Scan` at the **Full scan** section
 
