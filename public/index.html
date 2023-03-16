@@ -25,6 +25,7 @@
       href="//cdn.jsdelivr.net/npm/@markbattistella/docsify-charty@latest/dist/docsify-charty.min.css"
     />
     <link rel="icon" href="https://docs.neiki.dev/icon.png" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@5/dark.css" />
     <script src="https://neiki.dev/analytics/script.js"></script>
     <script src="/_vercel/insights/script.js"></script>
   </head>
@@ -41,6 +42,13 @@
         subMaxLevel: 3,
         nameLink: "/",
         search: "auto",
+        plugins: [
+          function LoadCopyPlugin(hook, vm) {
+            hook.ready((ready) => {
+              LoadCopyPluginFunction()
+            })
+          }
+        ],
         auto2top: true,
         coverpage: false,
         loadNavbar: false,
@@ -71,6 +79,8 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify-select@1"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
+    <script async defer src="./copy-headlines.js"></script>
     <!-- https://jthegedus.github.io/docsify-select/#/configuration?id=theme-properties -->
   </body>
 </html>

@@ -23,7 +23,7 @@
 * If the installation is finished you need to **Login** with your Kaspersky Account 
 * If you dont have an Kaspersky Account it will create an account for you!
 
-## Check if KSN (Kaspersky Security Network) is enabled
+## Check if KSN (Kaspersky Security Network) is enabled 
 
 * Go to the second tab `Security` and click on `Settings icon` on the right side
 * Scroll down to `Advanced protection` 
