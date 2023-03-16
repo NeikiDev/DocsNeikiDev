@@ -1,6 +1,6 @@
 # Setup Alert files with Kaspersky IPS
 
-You can use that Short link to share this guide: [link.neiki.dev/AlertIPS](https://link.neiki.dev/AlertIPS)
+:link: You can use that Short link to share this guide: [link.neiki.dev/AlertIPS](https://link.neiki.dev/AlertIPS) :link:
 
 ## What you need
 
