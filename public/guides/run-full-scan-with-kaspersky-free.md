@@ -18,7 +18,7 @@
 * Accept all agrements and click **Next**
 * Click **Install** and wait until the installation is finished
 
-![Installation_1](https://cdn.discordapp.com/attachments/1085924508373889024/1085929838612844544/image.png)
+![Installation_1](https://cdn.neiki.dev/docs-cdn/kaspersky-installer-en.png)
 
 * If the installation is finished you need to **Login** with your Kaspersky Account 
 * If you dont have an Kaspersky Account it will create an account for you!
@@ -30,33 +30,33 @@
 * It might have a different name in your language. (For example: `Data provision agreement`)
 * Make sure both `Kaspersky Security Network` is **enabled** (ON)
 
-![Settings](https://cdn.discordapp.com/attachments/1085924508373889024/1085941616444968980/vmware_ulc0QLD0ia.png)
+![Settings](https://cdn.neiki.dev/docs-cdn/kaspersky-ksn-01.png)
 
-![KSN](https://cdn.discordapp.com/attachments/1085924508373889024/1085941500816412682/vmware_FdtHtAr1hW.png)
+![KSN](https://cdn.neiki.dev/docs-cdn/kaspersky-ksn-02.png)
 
 ## Run a Full scan Extrem Settings (Kaspersky Free)
 
 * After you logged in you should see the Kaspersky Free Launcher
 
-![Launcher](https://cdn.discordapp.com/attachments/1085924508373889024/1085942193530867803/vmware_XtwNDloHRZ.png)
+![Launcher](https://cdn.neiki.dev/docs-cdn/kaspersky-home-en.png)
 
 * Go to the second tab `Security` and click on `Choose Scan`
 
-![Security](https://cdn.discordapp.com/attachments/1085924508373889024/1085942443234570271/vmware_eHNB5GdO3w.png)
+![Security](https://cdn.neiki.dev/docs-cdn/kaspersky-security-main.png)
 
 * Click on the **Full scan** settings button on the right side
 
-![fullscan](https://cdn.discordapp.com/attachments/1085924508373889024/1085941314480263199/vmware_3i9KnLlUBc.png)
+![fullscan](https://cdn.neiki.dev/docs-cdn/kaspersky-settings-more.png)
 
 * **Move the slider to the top** to enable **Extrem Settings**
 * Click on `Save` to save your settings
 * Confirum the settings by clicking on `I confirm`
 
-![extrem](https://cdn.discordapp.com/attachments/1085924508373889024/1085941223501615165/vmware_ZJMs6ZaH4q.png)
+![extrem](https://cdn.neiki.dev/docs-cdn/kaspersky-extrem.ong)
 
 * Go back to the `Scan` site and click on `Run Scan` at the **Full scan** section
 
-![run](https://cdn.discordapp.com/attachments/1085924508373889024/1085940994488402031/vmware_Pxgp1q63be.png)
+![run](https://cdn.neiki.dev/docs-cdn/kaspersky-run.png)
 
 <p class="tip"> Now let the Full scan finish - It take some time, more information below! </p>
 

@@ -17,17 +17,17 @@
 
 * Go to your Security Settings
 
-![Security Settings](https://cdn.discordapp.com/attachments/1072425032745222314/1084855405785645137/avpui_kvFYRxCREr.png)
+![Security Settings](https://cdn.neiki.dev/docs-cdn/kaspersky-isp-settings.png)
 
 * Make sure that the `Intrusion Prevention` is enabled
 * Then click on `Manage resources`
 
-![Manage resources](https://cdn.discordapp.com/attachments/1072425032745222314/1084855306028335104/avpui_wqFS4It07n.png)
+![Manage resources](https://cdn.neiki.dev/docs-cdn/isp-on.png)
 
 * Now click on a folder (for example: `Personal Data`)
 * Then click the **Add** button at the top
 
-![Add](https://cdn.discordapp.com/attachments/1072423497634164787/1084849842079137934/avpui_zvmHwBQGFH.png)
+![Add](https://cdn.neiki.dev/docs-cdn/isp-add.png)
 
 * Now paste the path of the file / folder in the `Path` section
 * Or open the file explorer with the `Select...` button and select the file / folder
@@ -37,14 +37,14 @@
 
 * If you selected the file / folder, click on the `Add` button
 
-![Path](https://cdn.discordapp.com/attachments/1072423497634164787/1084850120819998883/avpui_9nnDweCkNL.png)
+![Path](https://cdn.neiki.dev/docs-cdn/isp-add-save.png)
 
 * If you added the file / folder, click on the `Add` button you can now select the `Action`.
 * Click on the new added file / folder and now you can select the `Rules` on the right side.
 * If you want to add rules for all groups you can **collapse** the `Groups` section and add the rules to all at once.
 * There are 4 sections for the rules: `Trusted`, `Low Restricted`, `High Restricted`, `Untrusted`
 
-![Action](https://cdn.discordapp.com/attachments/1072423497634164787/1084852090179960862/avpui_vmJtIOnVWm.png)
+![Action](https://cdn.neiki.dev/docs-cdn/isp-action.png)
 
 <p class="tip"> Make sure you are saving your Settings to Kaspersky </p>
 
@@ -55,7 +55,7 @@
 <p class="tip"> Sometimes the Notifcations wont work first time because of the Notifcation Settings of Kaspersky </p>
 
 You will get one of these Notifications if someone or something tries to access the file / folder:
-![Access](https://cdn.discordapp.com/attachments/1073592385327607942/1084853515542868059/Code_3b6M8vYxUH.png)
+![Access](https://cdn.neiki.dev/docs-cdn/kaspersky-notification.png)
 
 ## Guide Video
 ![Video](https://cdn.neiki.dev/attachments/41e0d36d02501434a9b9a3c5d42a7f312267b937cd9192ed2bdb9a5631df85f3.mp4 ':include :type=mp4 width=100% controls')
