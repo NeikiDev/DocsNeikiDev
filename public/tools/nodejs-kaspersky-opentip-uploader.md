@@ -21,6 +21,14 @@ There are 2 upload methods, one that generates an full report based on the respo
 
 ### [View the Statistics by JaffaCakes118 and Neiki here](https://analyze.neiki.dev/opentip-upload-stats)
 
+<p class="tip"> All upcomming added features will be PRIVATE access only. </p>
+
+All features added to the script above version `1.0.7` will be private access only. <br>
+if you want to get access to the private features, you can contact me on Discord: <br>
+`Neiki#4405` or you can contact me here [Contact - Info](https://neiki.dev/contact.html?r=pdocs)
+
+#### Bug fixes will be release in the public version as well.
+
 ## Versions and Changelog
 
 <!-- select:start -->
