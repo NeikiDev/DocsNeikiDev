@@ -34,6 +34,12 @@ if you want to get access to the private features, you can contact me on Discord
 <!-- select:start -->
 <!-- select-menu-labels:Select Version -->
 
+#### --LATEST (1.0.8)--
+
+* Added Public version (without private functions)
+* Removed private functions from public version
+* Splitted version to public and private
+
 #### --LATEST (1.0.7)--
 
 * Added file size in MegaBytes to console log
@@ -165,4 +171,4 @@ function getFiles(dirPath, fileList = []) {
 ## Support and Contact
 You can find the contact details in the "Support and Contact" section.
 
-<p class="warn"> Last updated: 15.03.2023 </p>
+<p class="warn"> Last updated: 16.03.2023 </p>
