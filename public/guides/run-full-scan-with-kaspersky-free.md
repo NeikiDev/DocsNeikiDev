@@ -1,5 +1,7 @@
 # Run full scan with Kaspersky free
 
+You can use that Short link to share this guide: [link.neiki.dev/ScanExtrem](https://link.neiki.dev/ScanExtrem)
+
 ## What you need
 
 > Please download the latest version of Kaspersky Free from [here](https://kaspersky.com/free-antivirus) <br>

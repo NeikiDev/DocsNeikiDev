@@ -1,5 +1,7 @@
 # Setup Alert files with Kaspersky IPS
 
+You can use that Short link to share this guide: [link.neiki.dev/AlertIPS](https://link.neiki.dev/AlertIPS)
+
 ## What you need
 
 <p class="tip">You need a Paid Version of Kaspersky Anti-Virus</p>

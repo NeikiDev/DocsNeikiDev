@@ -1,5 +1,7 @@
 # Generate an Full report of one single Hash
 
+You can use that Short link to share this guide: [link.neiki.dev/GenerateReport](https://link.neiki.dev/GenerateReport)
+
 ## How does it work
 
 Analyze.neiki.dev is a powerful analysis tool that allows you to generate detailed reports on  <br>
