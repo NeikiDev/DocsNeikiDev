@@ -16,11 +16,35 @@ Thank you for choosing the `*.neiki.dev` network. We look forward to helping you
 
 ## Getting Started
 
-* #### [**GUIDES**](/guides/information.md)
-* #### [**TOOLS**](/tools/information.md)
-* #### [**ANALYZE**](/analyze/information.md)
-* #### [**API**](/api/information.md)
-* #### [**SUPPORT - HELP**](/support/information.md)
+<!-- tabs:start -->
+
+#### **GUIDES <span class="tab-badge">New!</span>**
+* [Information](/guides/information.md)
+* [Setup alert files with Kaspersky IPS](/guides/setup-alert-files-with-kaspersky-ips.md)
+* [Run full scan with Kaspersky](/guides/run-full-scan-with-kaspersky-free.md)
+#### **TOOLS**
+
+* [Information](/tools/information.md)
+* [NodeJS Triage Downloader](/tools/nodejs-triage-downloader.md)
+* [NodeJS Opentip Uploader](/tools/nodejs-kaspersky-opentip-uploader.md)
+* [Python Nordvpn Cycle](/tools/python-nordvpn-cycle.md)
+* [Python Discord Defender Beta](python-discord-defender-beta.md)
+
+#### **ANALYZE**
+* [Information](/analyze/information.md)
+* [Generate Report](/analyze/generate-report-single-hash.md)
+* [Javascript obfuscator](/analyze/tools-javascript-obfuscator.md)
+* [Javascript deobfuscator](/analyze/tools-javascript-deobfuscator.md)
+* [Image Text Extractor](/analyze/tools-image-text-extractor.md)
+
+#### **API**
+* [Information](/api/information.md)
+* [Analytics](/api/website-analytics-script.md)
+
+#### **SUPPORT - HELP**
+* [Information](/support/information.md)
+
+<!-- tabs:end -->
 
 ## Support and Contact
 You can find the contact details in the "Support and Contact" section.
