@@ -1,4 +1,3 @@
-# Neiki Dev Documentations - Welcome
 
 ## Introduction
 
@@ -17,7 +16,7 @@ Thank you for choosing the `*.neiki.dev` network. We look forward to helping you
 
 ## Getting Started
 
-* #### [**GUIDES <span class="tab-badge">New!</span>**](/guides/information.md)
+* #### [**GUIDES**](/guides/information.md)
 * #### [**TOOLS**](/tools/information.md)
 * #### [**ANALYZE**](/analyze/information.md)
 * #### [**API**](/api/information.md)
