@@ -23,6 +23,7 @@ Thank you for choosing the `*.neiki.dev` network. We look forward to helping you
 * [Setup alert files with Kaspersky IPS](/guides/setup-alert-files-with-kaspersky-ips.md)
 * [Run full scan with Kaspersky](/guides/run-full-scan-with-kaspersky-free.md)
 * [Get old windows right click menu](/guides/windows-old-right-click-menu.md)
+* [Report Scam Discord User](/guides/report-scam-discord-user.md)
 #### **TOOLS**
 
 * [Information](/tools/information.md)
