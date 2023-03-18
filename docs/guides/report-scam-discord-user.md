@@ -10,7 +10,8 @@
 * Open the Discord User you want to report
 * Copy all Discord user information (ID, Username, Discriminator) 
 * Copy the message link of the message you want to report
-* Go the the **[Discord Report Page](https://support.discord.com/hc/en-us/requests/new)** *
+* Go the the **[Discord Report Page](https://support.discord.com/hc/en-us/requests/new)** 
+* Or use that **[Discord direct report link](https://dis.gd/report)**
 * Select the **"Trusty & Safety"** option.
 * Now fill out the form with the information you copied before
 
