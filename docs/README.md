@@ -14,6 +14,12 @@ We are constantly updating our documentation to ensure it is up-to-date and rele
 
 Thank you for choosing the `*.neiki.dev` network. We look forward to helping you achieve your goals with our platform.
 
+## Open Source
+
+[https://github.com/NeikiDev/DocsNeikiDev](https://github.com/NeikiDev/DocsNeikiDev)
+
+![GitHub](https://img.shields.io/github/last-commit/neikidev/DocsNeikiDev?style=for-the-badge)
+
 ## Getting Started
 
 <!-- tabs:start -->
