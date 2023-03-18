@@ -1,5 +1,7 @@
 # How to get old rigth click menu on Windows 
 
+:link: You can use that Short link to share this guide: [https://neiki.dev/WinOldMenu](https://neiki.dev/WinOldMenu) 
+
 ## What you need
 
 <p class="tip">You need Administator privileges on your Windows PC to edit registry keys.</p>
