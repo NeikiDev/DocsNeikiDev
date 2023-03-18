@@ -4,12 +4,6 @@
 
 <p class="tip">You need Administator privileges on your Windows PC to edit registry keys.</p>
 
-## Old and New
-
-![Old](https://cdn.neiki.dev/docs-cdn/guides/windows_old_menu.png)
-
-![New](https://cdn.neiki.dev/docs-cdn/guides/windows_new_menu.png)
-
 ## Setup with CMD (Command Prompt)
 
 * Open the `CMD` (Command Prompt) with Administator privileges <br> (Right click on the `CMD` and click on `Run as Administrator`)
