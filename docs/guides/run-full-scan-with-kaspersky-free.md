@@ -2,6 +2,17 @@
 
 :link: You can use that Short link to share this guide: [https://neiki.dev/FullScan](https://neiki.dev/FullScan) 
 
+## Fast jump to topics
+
+* [Setup Kaspersky free](#setup-kaspersky-free)
+* [Install Process (Kaspersky Free)](#install-process-kaspersky-free)
+* [Enable KSN (Kaspersky Security Network)](#enable-ksn)
+* [Check if KSN (Kaspersky Security Network) is enabled](#check-if-ksn-kaspersky-security-network-is-enabled)
+* [Run a full scan with Kaspersky Free](#run-a-full-scan-with-kaspersky-free)
+* [Related Information](#information)
+* [What is Kaspersky Security Network (KSN)](#what-is-kaspersky-security-network-ksn)
+
+
 ## What you need
 
 > Please download the latest version of Kaspersky Free from [here](https://kaspersky.com/free-antivirus) <br>
@@ -23,7 +34,7 @@
 
 ![Installation_1](https://cdn.neiki.dev/docs-cdn/kaspersky-installer-en.png)
 
-<p class="tip">Make sure to accept the KSN (Kaspersky Security Network) agreement!<p>
+<p id="enable-ksn" class="tip">Make sure to accept the KSN (Kaspersky Security Network) agreement!<p>
 
 ![Installation_2](https://cdn.neiki.dev/docs-cdn/ksn-statement.png)
 

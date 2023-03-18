@@ -3,6 +3,15 @@
 :link: You can use that Short link to share this guide: [https://neiki.dev/ReportUser](https://neiki.dev/ReportUser) 
 
 
+## Fast jump to topics
+
+* [Report a Discord User to Discord](#report-a-discord-user-to-discord)
+* [Report the Discord user to Servers you share](#report-the-discord-user-to-servers-you-share)
+* [Report the Discord user to Dangercord](#report-the-discord-user-to-dangercord)
+* [Related Information](#information)
+* [How to get an Discord User ID](#how-to-get-an-discord-user-id)
+* [How to provide a Discord scam](#how-to-prevent-discord-scams)
+
 <p class="tip"> Reporting over the Discord Support Page is the best way to report a Discord User </p>
 
 ## Report a Discord User to Discord
