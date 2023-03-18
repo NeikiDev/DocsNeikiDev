@@ -1,6 +1,6 @@
 # How to get old rigth click menu on Windows 
 
-:link: You can use that Short link to share this guide: [https://neiki.dev/DCReportScam](https://neiki.dev/DCReportScam) 
+:link: You can use that Short link to share this guide: [https://neiki.dev/ReportUser](https://neiki.dev/ReportUser) 
 
 
 <p class="tip"> Reporting over the Discord Support Page is the best way to report a Discord User </p>
