@@ -57,6 +57,13 @@
 * Open the Discord Message you want to report
 * Right click on the message and select `Copy Message Link`
 
+#### What should i do after i reported a Discord User?
+
+* Wait for the Discord Support to take action
+* Block the Discord User and close your Direct Messages
+* If you clicked any links or downloaded any files, scan your PC with an Anti-Virus Software
+* Clear your Browser Cache and Cookies and change your Discord Password
+
 #### Does the red report button work?
 
 * No not really, the button is often spam used
