@@ -10,7 +10,7 @@
 * [Report the Discord user to Dangercord](#report-the-discord-user-to-dangercord)
 * [Related Information](#information)
 * [How to get an Discord User ID](#how-to-get-an-discord-user-id)
-* [How to provide a Discord scam](#how-to-prevent-discord-scams)
+* [How to prevent a Discord scam](#how-to-prevent-discord-scams)
 
 <p class="tip"> Reporting over the Discord Support Page is the best way to report a Discord User </p>
 
