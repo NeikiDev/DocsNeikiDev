@@ -4,6 +4,7 @@
 
 ## Fast jump to topics
 
+* [Uninstall other Antivirus Software](#uninstall-other-antivirus-software)
 * [Setup Kaspersky free](#setup-kaspersky-free)
 * [Install Process (Kaspersky Free)](#install-process-kaspersky-free)
 * [Enable KSN (Kaspersky Security Network)](#enable-ksn)
@@ -16,6 +17,12 @@
 ## What you need
 
 > Please download the latest version of Kaspersky Free from [here](https://kaspersky.com/free-antivirus) <br>
+
+## Uninstall other Antivirus Software
+
+* If you have another Antivirus Software installed, please uninstall it first. <br>
+* It is not recommended to have more than one Antivirus Software installed on your computer. <br>
+* You can see [here](https://support.kaspersky.com/kav21/compatibility/15515#block1) the list of incompatible Antivirus Software. <br>
 
 ## Setup Kaspersky free
 
