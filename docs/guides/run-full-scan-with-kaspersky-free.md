@@ -98,6 +98,14 @@
 * Kaspersky Security Network (KSN) is a cloud-based service that helps to <br> protect your computer from new and emerging threats. <br>
 * You can read more about KSN [here](https://www.kaspersky.com/ksn) <br>
 
+### Why cant i view Windows Defender?
+
+* Windows Defender is a built-in Antivirus Software from Microsoft. <br>
+* If Kaspersky Free is installed, Windows Defender will be disabled. <br>
+* The Windows Defender will show Kaspersky Free Status. <br>
+* You can enabled **Windows Defender regular scan** in the Windows Defender settings. <br>
+* Windows Defender Realtime protection is **Disabled** <br>
+
 ### What is the difference between a Full scan and a Quick scan?
 
 * A Full scan checks every file on your computer. <br>
@@ -114,4 +122,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 20.03.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 21.03.2023 - Guide written by NeikiDev </p>
