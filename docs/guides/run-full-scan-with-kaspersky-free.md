@@ -98,6 +98,35 @@
 * Kaspersky Security Network (KSN) is a cloud-based service that helps to <br> protect your computer from new and emerging threats. <br>
 * You can read more about KSN [here](https://www.kaspersky.com/ksn) <br>
 
+### Using cracked / pirated software can infect my computer?
+
+<p class="tip"> Yes, using cracked / pirated software will infect your computer! <br>
+
+* 99% of cracked / pirated software is infected with malware. <br>
+* **Piracy is illegal and can get you in trouble.** <br>
+* You wont get any updates for cracked software. <br>
+* You wont get anything for free. <br>
+* Use alternative software to stay safe. <br>
+* Cracked software is illegal and can infect your computer with malware. <br>
+* It is highly recommended to not use cracked software. <br>
+* Uninstall cracked software and install the original software. <br>
+* You can find the original software on the official website. <br>
+* Check always the official website for the latest version. <br>
+* Cracked or pirated software WILL infect your computer. <br>
+
+### Do you need further help?
+
+* You can always DM me on Discord (Neiki#4405). <br>
+* You can email me at `neikianalytics@gmail.com` <br>
+* Or join the [PC Security Channel Discord](https://discord.gg/pcsecuritychannel)
+* I do not help with cracked / pirated software. <br>
+
+### Should i remove Kaspersky Free after the scan?
+
+* No, you dont need to remove Kaspersky Free after the scan. <br>
+* Kaspersky Free is a free Antivirus Software. <br>
+* Very recommended to keep Kaspersky Free installed. <br>
+
 ### Why cant i view Windows Defender?
 
 * Windows Defender is a built-in Antivirus Software from Microsoft. <br>
@@ -117,9 +146,14 @@
 * But it is recommended to not use your computer while a Full scan is running. <br>
 * It can slow down your computer and the scan can take longer. <br>
 
+## Thanks for using our Docs and Guides!
+
+* You can support me by sharing this guide with your friends. <br>
+* You can also support me and the docs by reporting any issues. <br>
+
 ## Support and Contact
 If you have any questions or run into any issues while using our Docs or Guides,  <br>
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 21.03.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 23.03.2023 - Guide written by NeikiDev </p>
