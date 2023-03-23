@@ -133,6 +133,32 @@
 * Or join the [PC Security Channel Discord](https://discord.gg/pcsecuritychannel)
 * I do not help with cracked / pirated software. <br>
 
+### It shows [NUMBER] of objects is not processed. What does that mean?
+
+* It means you have to manually resolve those issues. <br>
+* Go back to your Home screen and click on `Details` <br>
+* You see an Notification how many objects are not processed. <br>
+* Click on **Resolve all** to resolve all issues. <br>
+
+### I got an window to select an method to resolve the issue. What should i do?
+
+* Click the Checkbox `Apply to all objects of this type` <br>
+* Click on `Delete` <br>
+* It should resolve all your issues. <br>
+
+### I got another window to select an method to resolve the issue. What should i do?
+
+* You can always check the path and the name of the Issue. <br>
+* Also check the information you got!
+* If you dont want the file / archive / Program, click on `Delete` or `Resolve` <br>
+* If its an Archive, you can click on `Delete Archive` <br>
+
+### Does Kaspersky affect my computer performance?
+
+* No, Kaspersky Free is a very lightweight Antivirus Software. <br>
+* It idles in the background and does not affect your computer performance. <br>
+* Normal IDLE RAM usage is around 40MB - 70MB. <br>
+
 ### Should i remove Kaspersky Free after the scan?
 
 * No, you dont need to remove Kaspersky Free after the scan. <br>
