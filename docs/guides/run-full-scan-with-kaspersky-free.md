@@ -10,7 +10,7 @@
 * [Enable KSN (Kaspersky Security Network)](#enable-ksn)
 * [Check if KSN (Kaspersky Security Network) is enabled](#check-if-ksn-kaspersky-security-network-is-enabled)
 * [Run a full scan with Kaspersky Free](#run-a-full-scan-extrem-settings-kaspersky-free)
-* [Full Video Guide (Youtube) - English Version](#full-video-guide-youtube---english-version)
+* [Full Video Guide (Youtube) - English Version](#full-video-guide-youtube-english-version)
 * [Related Information](#information)
 * [What is Kaspersky Security Network (KSN)](#what-is-kaspersky-security-network-ksn)
 
