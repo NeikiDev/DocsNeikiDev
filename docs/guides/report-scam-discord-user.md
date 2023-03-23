@@ -1,4 +1,4 @@
-# How to get old rigth click menu on Windows 
+# Report Scam Discord User
 
 :link: You can use that Short link to share this guide: [https://neiki.dev/ReportUser](https://neiki.dev/ReportUser) 
 
