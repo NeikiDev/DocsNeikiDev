@@ -86,6 +86,17 @@
 
 <p class="tip"> Now let the Full scan finish - It take some time, more information below! </p>
 
+## Full Video Guide
+
+### Jump to video positions
+
+* [Download](https://www.youtube.com/watch?v=6G40a33nrbk)
+* [Installation](https://youtu.be/6G40a33nrbk?t=36)
+* [Change importannt Settings](https://youtu.be/6G40a33nrbk?t=101)
+* [Run Scan](https://youtu.be/6G40a33nrbk?t=146)
+
+![Video](https://www.youtube.com/embed/6G40a33nrbk ':include :type=iframe width=100% height=560 frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share allowfullscreen ')
+
 ## Information
 
 ### How long does a Full scan take?
