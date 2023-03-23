@@ -94,6 +94,8 @@
 
 ### Jump to video positions
 
+#### [Click here to watch on YouTube](https://www.youtube.com/watch?v=RYySi13PeOs)
+
 * [Download](https://www.youtube.com/watch?v=RYySi13PeOs)
 * [Installation & Agreements](https://youtu.be/RYySi13PeOs?t=31)
 * [Login & Account](https://youtu.be/RYySi13PeOs?t=78)
