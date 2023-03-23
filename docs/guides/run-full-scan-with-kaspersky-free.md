@@ -10,10 +10,11 @@
 * [Enable KSN (Kaspersky Security Network)](#enable-ksn)
 * [Check if KSN (Kaspersky Security Network) is enabled](#check-if-ksn-kaspersky-security-network-is-enabled)
 * [Run a full scan with Kaspersky Free](#run-a-full-scan-extrem-settings-kaspersky-free)
-* [Full Video Guide (Youtube) - English Version](#full-video-guide-youtube-english-version)
 * [Related Information](#information)
 * [What is Kaspersky Security Network (KSN)](#what-is-kaspersky-security-network-ksn)
 
+
+You can also watch the [Full Video Guide (Youtube) - English Version](#full-video-guide-youtube-english-version)
 
 ## What you need
 
@@ -91,12 +92,12 @@
 
 ### Jump to video positions
 
-* [Download](https://www.youtube.com/watch?v=6G40a33nrbk)
-* [Installation](https://youtu.be/6G40a33nrbk?t=36)
-* [Change importannt Settings](https://youtu.be/6G40a33nrbk?t=101)
-* [Run Scan](https://youtu.be/6G40a33nrbk?t=146)
+* [Download](https://www.youtube.com/watch?v=RYySi13PeOs)
+* [Installation & Agreements](https://youtu.be/RYySi13PeOs?t=31)
+* [Login & Account](https://youtu.be/RYySi13PeOs?t=78)
+* [Change Settings](https://youtu.be/RYySi13PeOs?t=113)
 
-![Video](https://www.youtube.com/embed/6G40a33nrbk ':include :type=iframe width=100% height=560 frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share allowfullscreen ')
+![Video](https://www.youtube.com/embed/RYySi13PeOs ':include :type=iframe width=100% height=560 frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share allowfullscreen ')
 
 ## Information
 
