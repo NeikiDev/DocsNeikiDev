@@ -14,7 +14,7 @@
 * [What is Kaspersky Security Network (KSN)](#what-is-kaspersky-security-network-ksn)
 
 
-<p id="tip"> If you want to watch a video guide please follow the link below! </p> 
+<p class="tip"> If you want to watch a video guide please follow the link below! </p> 
 
 [Full Video Guide (Youtube) - English Version](#full-video-guide-youtube-english-version)
 
