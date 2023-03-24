@@ -103,6 +103,21 @@
 
 ![Video](https://www.youtube.com/embed/RYySi13PeOs ':include :type=iframe width=100% height=560 frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share allowfullscreen ')
 
+## What should i do if it didnt work?
+
+* You have more options to fix your problem. <br>
+* First you can install second opinion scanners like [HitmanPro](https://www.bleepingcomputer.com/download/hitmanpro/). <br>
+* You can can also reinstall your computer following this [guide](https://maldroid.dev/ResetWindows). <br>
+* You can join the [Pc Security Channel](https://discord.gg/pcsecuritychannel) and open an Troubleshooting Thread. <br>
+
+## What should i do if it worked?
+
+* I recommend you to reset your browser cache and cookies. <br>
+* Also reset your passwords on an 100% clean system. <br>
+* You also should use an password manager like [Bitwarden](https://bitwarden.com/). <br>
+* You can also join the [Pc Security Channel](https://discord.gg/pcsecuritychannel) and open an Discussion Thread. <br>
+
+
 ## Information
 
 ### How long does a Full scan take?
