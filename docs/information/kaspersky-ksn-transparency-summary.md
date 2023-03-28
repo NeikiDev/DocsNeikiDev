@@ -21,7 +21,7 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 > Private KSN is a solution that enables users of computers hosting Kaspersky Endpoint Security or other Kaspersky applications to obtain access to reputation databases of Kaspersky Security Network, and to other statistical data without sending data to KSN from their own computers. 
 
 * Data is collected anonymously and is not associated with your personal information.
-* It is stored on Switzerland-based servers.
+* It is stored on Switzerland-based servers. (If you are in the EU no connection is made to Russia)
 
 
 ## Resources to read
