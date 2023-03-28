@@ -149,7 +149,7 @@
 ### What is Kaspersky Security Network (KSN)?
 
 * Kaspersky Security Network (KSN) is a cloud-based service that helps to <br> protect your computer from new and emerging threats. <br>
-* You can read more about KSN [here](https://www.kaspersky.com/ksn) <br>
+* You can read more about KSN [here](https://docs.neiki.dev/#/information/kaspersky-ksn-transparency-summary) <br>
 
 ### Using cracked / pirated software can infect my computer?
 
@@ -235,4 +235,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 25.03.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 28.03.2023 - Guide written by NeikiDev </p>
