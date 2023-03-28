@@ -40,7 +40,7 @@ Thank you for choosing the `*.neiki.dev` network. We look forward to helping you
 
 #### **information**
 
-* [Kaspersky KSN transparency summary](/information/kaspersky-ksn-transparency-summery.md)
+* [Kaspersky KSN transparency summary](/information/kaspersky-ksn-transparency-summary.md)
 
 #### **ANALYZE**
 * [Information](/analyze/information.md)

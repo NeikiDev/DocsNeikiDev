@@ -21,7 +21,7 @@
 
 * INFORMATION
 
-  * [Kaspersky KSN transparency summary](/information/kaspersky-ksn-transparency-summery.md)
+  * [Kaspersky KSN transparency summary](/information/kaspersky-ksn-transparency-summary.md)
 
 * ANALYZE 
 
