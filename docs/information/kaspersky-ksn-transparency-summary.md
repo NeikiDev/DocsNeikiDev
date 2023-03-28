@@ -44,7 +44,7 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 
 ## Download Statement
 
-[Download PDF](/docs/information/KASPERSKY-SECURITY-NETWORK-STATEMENT.pdf)
+[Download PDF](https://cdn.neiki.dev/docs-cdn/information/KASPERSKY-SECURITY-NETWORK-STATEMENT.pdf)
 
 `https://cdn.neiki.dev/docs-cdn/information/KASPERSKY-SECURITY-NETWORK-STATEMENT.pdf`
 
