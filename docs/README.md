@@ -38,6 +38,10 @@ Thank you for choosing the `*.neiki.dev` network. We look forward to helping you
 * [Python Nordvpn Cycle](/tools/python-nordvpn-cycle.md)
 * [Python Discord Defender Beta](python-discord-defender-beta.md)
 
+#### **information**
+
+* [Kaspersky KSN transparency summary](/information/kaspersky-ksn-transparency-summery.md)
+
 #### **ANALYZE**
 * [Information](/analyze/information.md)
 * [Generate Report](/analyze/generate-report-single-hash.md)

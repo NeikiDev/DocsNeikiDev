@@ -19,6 +19,10 @@
     * [Get old windows right click menu](/guides/windows-old-right-click-menu.md)
     * [Report Scam Discord User](/guides/report-scam-discord-user.md)
 
+* INFORMATION
+
+  * [Kaspersky KSN transparency summary](/information/kaspersky-ksn-transparency-summery.md)
+
 * ANALYZE 
 
   * [Information](/analyze/information.md)
