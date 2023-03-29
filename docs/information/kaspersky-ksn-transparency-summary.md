@@ -1,4 +1,4 @@
-# ´Kaspersky Security Network Transparency Summary
+# Kaspersky Security Network Transparency
 
 <p class="tip"> This Information is based on Kaspersky Transparency Informations (2023) - Sources linked below </p>
 
