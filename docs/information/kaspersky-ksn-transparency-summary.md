@@ -27,7 +27,7 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 * It is stored on Switzerland-based servers. (If you are in the EU no connection is made to Russia)
 * If your Kaspersky Product and you are based not in Russia, the data is **not sent** to Russia.
 
-## Quick answered questions about Kaspersky Security Network (KSN)
+## Q&A about Kaspersky Security Network (KSN)
 
 <p class="warn"> THe following questions are answered based Sources linked below </p>
 
