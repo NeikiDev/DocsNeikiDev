@@ -69,6 +69,18 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 
 `https://cdn.neiki.dev/docs-cdn/information/KASPERSKY-SECURITY-NETWORK-STATEMENT.pdf`
 
+## Information about Sources and Summary
+
+* This summary is based on the Kaspersky Security Network (KSN) Articles.
+* This summary is based on the Kaspersky Security Network (KSN) Statements.
+* Text in **Blue Boxes** are direct quotes from the Kaspersky Security Network (KSN) Articles.
+* The PDF is official from Kaspersky (Upload to `cdn.neiki.dev`).
+* All Information is updated manually! (2023)
+* Please contact me if you find any errors or have any suggestions.
+* Its not my opinion, its the official information from Kaspersky and an Summary of it.
+* I am not affiliated with Kaspersky in any way.
+* I am User of Kaspersky and i want to share the information with you.
+
 ## Thanks for using our Docs and Guides!
 
 * You can support me by sharing this guide with your friends. <br>
@@ -79,4 +91,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 29.03.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 29.03.2023 - Summary written by NeikiDev </p>
