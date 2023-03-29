@@ -26,14 +26,13 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 
 ## How to enable Kaspersky Security Network (KSN)
 
-* You can enable Kaspersky Security Network (KSN) in your Kaspersky product to help improve the products and services.
-* If you accept the **KSN Agreement** during the installation of your Kaspersky product, KSN is enabled by default.
+* If you accept the **KSN Agreement** during the installation of your Kaspersky product, KSN is enabled.
 * Follow [this guide](https://docs.neiki.dev/#/guides/run-full-scan-with-kaspersky-free?id=check-if-ksn-kaspersky-security-network-is-enabled) to enable it in your Kaspersky product.
 * You can also watch [this video part](https://youtu.be/RYySi13PeOs?t=130) to learn how to enable KSN in your Kaspersky product.
 
 ## Current Kaspersky Security Network (KSN) Statistics
 
-<p class="warn"> The following KSN Statistics are last manually updated: 29.03.2023 (11:35), the may not be 100% accurate! </p>
+<p class="warn"> The following KSN Statistics are last manually updated: 29.03.2023 (11:41), they are not accurate! </p>
 
 * Safe objects: `6.332.844.004`
 * Dangerous objects: `1.965.405.579` (30.3%)
@@ -73,4 +72,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 28.03.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 29.03.2023 - Guide written by NeikiDev </p>
