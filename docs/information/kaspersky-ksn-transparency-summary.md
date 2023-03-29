@@ -5,9 +5,9 @@
 ## What is Kaspersky Security Network (KSN)?
 
 * Kaspersky Security Network (KSN) is a cloud-based service that helps to protect your computer from new and emerging threats.
-* You can enable KSN in your Kaspersky product to help us improve our products and services.
+* You can enable KSN in your Kaspersky product to help improve the products and services.
 * It is also avaible in the Free version of Kaspersky.
-* You can find more information about KSN in the [Kaspersky Security Network](https://www.kaspersky.com/ksn).
+* You can find more information about KSN in the [Kaspersky Security Network](https://www.kaspersky.com/ksn) Article.
 
 > Kaspersky Security Network (KSN) is a cloud-based system that collects and analyzes threat data from millions of Kaspersky software users around the world. It operates in the background of Kaspersky's security products, such as antivirus and internet security software, and anonymously sends data about suspicious files and activities to the KSN cloud. This data is then analyzed by Kaspersky's threat detection algorithms and used to  identify new and emerging threats, as well as to improve the accuracy of Kaspersky's security products. <br><br>
 KSN enables Kaspersky to quickly detect and respond to new threats, even if they have never been seen before. The system also provides real-time information about the latest malware and cyber attacks, helping Kaspersky's researchers and analysts stay up-to-date on the latest trends and tactics used by cybercriminals.<br><br>
