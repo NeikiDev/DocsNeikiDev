@@ -29,6 +29,8 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 
 ## Quick answered questions about Kaspersky Security Network (KSN)
 
+<p class="warn"> THe following questions are answered based Sources linked below </p>
+
 * Is it safe to enable Kaspersky Security Network (KSN)?
     * Yes, it is safe to enable Kaspersky Security Network (KSN).
 * Is Kaspersky Security Network (KSN) enabled by default?
