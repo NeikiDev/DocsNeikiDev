@@ -78,7 +78,7 @@
 * Go to the second tab `Security` and click on `Settings icon` on the right side
 * Scroll down to `Advanced protection` 
 * It might have a different name in your language. (For example: `Data provision agreement`)
-* It might also be called `Cloud Protection` or `Kaspersky Security Network` in your language.
+* It might also be called `Kaspersky Security Network` in your language.
 * Make sure both `Kaspersky Security Network` is **enabled** (ON)
 
 ![Settings](https://cdn.neiki.dev/docs-cdn/kaspersky-ksn-01.png)
