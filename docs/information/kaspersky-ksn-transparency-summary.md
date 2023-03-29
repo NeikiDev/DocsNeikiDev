@@ -1,4 +1,4 @@
-# Run full scan with Kaspersky free
+# ´Kaspersky Security Network Transparency Summary
 
 <p class="tip"> This Information is based on Kaspersky Transparency Informations (2023) - Sources linked below </p>
 
