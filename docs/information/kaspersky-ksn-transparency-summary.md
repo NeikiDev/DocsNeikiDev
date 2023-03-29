@@ -27,6 +27,20 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 * It is stored on Switzerland-based servers. (If you are in the EU no connection is made to Russia)
 * If your Kaspersky Product and you are based not in Russia, the data is **not sent** to Russia.
 
+## Quick answered questions about Kaspersky Security Network (KSN)
+
+* Is it safe to enable Kaspersky Security Network (KSN)?
+    * Yes, it is safe to enable Kaspersky Security Network (KSN).
+* Is Kaspersky Security Network (KSN) enabled by default?
+    * No, Kaspersky Security Network (KSN) is not enabled by default.
+* Is Kaspersky Security Network (KSN) avaible in the Free version of Kaspersky?
+    * Yes, Kaspersky Security Network (KSN) is avaible in the Free version of Kaspersky.
+* Does Kaspersky Security Network (KSN) collect personal data?
+    * No, Kaspersky Security Network (KSN) does not collect personal data.
+* Does Kaspersky Security Network (KSN) connect to Russia?
+    * No, If you are not in Russia, Kaspersky Security Network (KSN) does not connect to Russia.
+* Where is Kaspersky Security Network (KSN) data processed?
+    * Kaspersky Security Network (KSN) data is processed in Switzerland (EU).
 ## How to enable Kaspersky Security Network (KSN)
 
 * If you accept the **KSN Agreement** during the installation of your Kaspersky product, KSN is enabled.
@@ -74,7 +88,7 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 * This summary is based on the Kaspersky Security Network (KSN) Articles.
 * This summary is based on the Kaspersky Security Network (KSN) Statements.
 * Text in **Blue Boxes** are direct quotes from the Kaspersky Security Network (KSN) Articles.
-* The PDF is official from Kaspersky (Upload to `cdn.neiki.dev`).
+* The PDF is official from Kaspersky (Uploaded to `cdn.neiki.dev`).
 * All Information is updated manually! (2023)
 * Please contact me if you find any errors or have any suggestions.
 * Its not my opinion, its the official information from Kaspersky and an Summary of it.
