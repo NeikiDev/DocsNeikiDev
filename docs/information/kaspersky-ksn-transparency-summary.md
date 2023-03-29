@@ -31,18 +31,19 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 
 <p class="warn"> THe following questions are answered based Sources linked below </p>
 
-* Is it safe to enable Kaspersky Security Network (KSN)?
-    * Yes, it is safe to enable Kaspersky Security Network (KSN).
-* Is Kaspersky Security Network (KSN) enabled by default?
-    * No, Kaspersky Security Network (KSN) is not enabled by default.
-* Is Kaspersky Security Network (KSN) avaible in the Free version of Kaspersky?
-    * Yes, Kaspersky Security Network (KSN) is avaible in the Free version of Kaspersky.
-* Does Kaspersky Security Network (KSN) collect personal data?
-    * No, Kaspersky Security Network (KSN) does not collect personal data.
-* Does Kaspersky Security Network (KSN) connect to Russia?
-    * No, If you are not in Russia, Kaspersky Security Network (KSN) does not connect to Russia.
-* Where is Kaspersky Security Network (KSN) data processed?
-    * Kaspersky Security Network (KSN) data is processed in Switzerland (EU).
+1. Q: **Is it safe to enable Kaspersky Security Network (KSN)?** <br>
+   A: Yes, it is safe to enable Kaspersky Security Network (KSN).
+2. Q: **Is Kaspersky Security Network (KSN) enabled by default?** <br>
+   A: No, Kaspersky Security Network (KSN) is not enabled by default.
+3. Q: **Is Kaspersky Security Network (KSN) avaible in the Free version of Kaspersky?** <br>
+   A: Yes, Kaspersky Security Network (KSN) is avaible in the Free version of Kaspersky.
+4. Q: **Does Kaspersky Security Network (KSN) collect personal data?** <br>
+   A: No, Kaspersky Security Network (KSN) does not collect personal data.
+5. Q: **Does Kaspersky Security Network (KSN) connect to Russia?** <br>
+   A: No, If you are not in Russia, Kaspersky Security Network (KSN) does not connect to Russia.
+6. Q: **Where is Kaspersky Security Network (KSN) data processed?** <br>
+   A: Kaspersky Security Network (KSN) data is processed in Switzerland (EU). 
+ 
 ## How to enable Kaspersky Security Network (KSN)
 
 * If you accept the **KSN Agreement** during the installation of your Kaspersky product, KSN is enabled.
