@@ -46,6 +46,7 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 * [Kaspersky Transparency Center](https://www.kaspersky.com/transparency-center)
 * [Kaspersky Security Network](https://www.kaspersky.com/ksn)
 * [Kaspersky Security Network Statement](https://support.kaspersky.com/kes-for-windows/11.7.0/licensing/15017)
+* [About data provision when using Kaspersky Security Network](https://support.kaspersky.com/KESWin/11/en-US/165983.htm)
 
 ## Resources to watch
 
