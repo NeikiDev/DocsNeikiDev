@@ -2,39 +2,6 @@
 
 :link: You can use that Short link to share this guide: [https://neiki.dev/FullScan](https://neiki.dev/FullScan) 
 
-## Fast jump to topics
-
-<!-- select:start -->
-<!-- select-menu-labels:Select Topic -->
-
-#### --Run Scan / Settings--
-
-* [Uninstall other Antivirus Software](#uninstall-other-antivirus-software)
-* [Setup Kaspersky free](#setup-kaspersky-free)
-* [Install Process (Kaspersky Free)](#install-process-kaspersky-free)
-* [Run a full scan with Kaspersky Free](#run-a-full-scan-extrem-settings-kaspersky-free)
-#### --Kaspersky Security Network (KSN)--
-
-* Please enable KSN (Kaspersky Security Network), its very important!
-* [Enable KSN (Kaspersky Security Network)](#enable-ksn)
-* [Check if KSN (Kaspersky Security Network) is enabled](#check-if-ksn-kaspersky-security-network-is-enabled)
-* [What is Kaspersky Security Network (KSN)](#what-is-kaspersky-security-network-ksn)
-
-#### --Common Questions--
-
-* [What should i do if it didnt work?](#what-should-i-do-if-it-didnt-work)
-* [Using cracked or pirated software can infect my Computer?](#using-cracked-pirated-software-can-infect-my-computer)
-
-#### --Information--
-
-* [Related Information](#information)
-* There are alot of questions and answers at the bottom of this page. Please check them out!
-
-<!-- select:end -->
-
-## Fast jump to topics
-
-
 <p class="tip"> If you want to watch a video guide please follow the link below! </p> 
 
 [Full Video Guide (Youtube) - English Version](#full-video-guide-youtube-english-version)
@@ -235,4 +202,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 28.03.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 31.03.2023 - Guide written by NeikiDev </p>
