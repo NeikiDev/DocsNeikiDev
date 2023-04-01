@@ -1,4 +1,4 @@
-# Run full scan with Kaspersky free
+# Run full scan with Kaspersky free 
 
 :link: You can use that Short link to share this guide: [https://neiki.dev/FullScan](https://neiki.dev/FullScan) 
 
@@ -52,7 +52,7 @@
 
 ![KSN](https://cdn.neiki.dev/docs-cdn/kaspersky-ksn-02.png)
 
-## Run a Full scan Extrem Settings (Kaspersky Free)
+## Run a Full scan Extreme Settings (Kaspersky Free)
 
 * After you logged in you should see the Kaspersky Free Launcher
 
@@ -70,7 +70,7 @@
 * Click on `Save` to save your settings
 * Confirum the settings by clicking on `I confirm`
 
-![extrem](https://cdn.neiki.dev/docs-cdn/kaspersky-extrem.png)
+![extreme](https://cdn.neiki.dev/docs-cdn/kaspersky-extrem.png)
 
 * Go back to the `Scan` site and click on `Run Scan` at the **Full scan** section
 
