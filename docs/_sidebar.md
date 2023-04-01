@@ -10,6 +10,7 @@
     * [NodeJS Opentip Uploader](/tools/nodejs-kaspersky-opentip-uploader.md)
     * [Python Nordvpn Cycle](/tools/python-nordvpn-cycle.md)
     * [Python Discord Defender Beta](/tools/python-discord-defender-beta.md)
+    * [CyberSec Usefull Tools](/tools/cybersec-usefull-tools.md)
 
 * GUIDES
   

@@ -37,6 +37,7 @@ Thank you for choosing the `*.neiki.dev` network. We look forward to helping you
 * [NodeJS Opentip Uploader](/tools/nodejs-kaspersky-opentip-uploader.md)
 * [Python Nordvpn Cycle](/tools/python-nordvpn-cycle.md)
 * [Python Discord Defender Beta](python-discord-defender-beta.md)
+* [CyberSec Usefull Tools](/tools/cybersec-usefull-tools.md)
 
 #### **information**
 

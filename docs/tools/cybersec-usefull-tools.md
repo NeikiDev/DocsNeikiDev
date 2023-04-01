@@ -1,0 +1,67 @@
+# CyberSecurity Useful Tools List
+
+<p class="warn"> This list is not complete and will be updated regularly. </p>
+
+## Scanner
+
+* [HitmanPro - BleepingComputer](https://www.bleepingcomputer.com/download/hitmanpro/)
+* [HitmanPro - Sophos](https://www.hitmanpro.com/en-us)
+* [Sophos Scan And Clean](https://www.sophos.com/de-de/free-tools/virus-removal-tool)
+* [MalwareBytes Scanner](https://www.malwarebytes.com/mwb-download)
+* [Malwarebytes - AdwareCleaner](https://www.malwarebytes.com/adwcleaner)
+* [Kaspersky Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
+* [Kaspersky Free AntiVirus](https://kaspersky.com/free-antivirus)
+* [Kaspersky RootKit Scanner](https://support.kaspersky.com/common/disinfection/5350)
+* [Kaspersky Utility](https://support.kaspersky.com/utility)
+* [Kaspersky Rescue Disk](https://support.kaspersky.com/krd18)
+
+## Network Tools & Free Analysis Tools
+
+* [Microsoft Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+* [Microsoft Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+* [Microsoft TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
+* [Microsoft Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+* [WireShark](https://www.wireshark.org)
+* [Glasswire](https://www.glasswire.com)
+
+## File Online Analysis
+
+* [virustotal.com](https://virustotal.com)
+* [opentip.kaspersky.com](https://opentip.kaspersky.com)
+* [analyze.intezer.com](https://analyze.intezer.com)
+* [cuckoo.cert.ee](https://cuckoo.cert.ee)
+* [hybrid-analysis.com](https://hybrid-analysis.com)
+* [tria.ge](https://tria.ge)
+* [any.run](https://app.any.run)
+* [filescan.io](https://filescan.io)
+
+## URL Online Analysis
+
+* [virustotal.com](https://www.virustotal.com/gui/home/url)
+* [opentip.kaspersky.com](https://opentip.kaspersky.com/?tab=lookup)
+* [wheregoes.com](https://wheregoes.com)
+* [urlscan.io](https://urlscan.io)
+* [urlvoid.com](https://www.urlvoid.com)
+* [report.netcraft.com](https://report.netcraft.com)
+* [sitereport.netcraft.com](https://sitereport.netcraft.com)
+* [phish.report](https://phish.report/)
+* [check-dns](https://check-host.net/check-dns)
+
+## Ransomware Tools
+
+* [NoMoreRansomware.org](https://www.nomoreransom.org/en/index.html)
+* [Identify Ransomware](https://id-ransomware.malwarehunterteam.com/)
+
+## File Upload
+
+* [WeTransfer](https://wetransfer.com)
+* [Google Drive](https://drive.google.com)
+* [Dropbox](https://dropbox.com)
+* [OneDrive](https://onedrive.live.com)
+* [Mega](https://mega.nz)
+* [Workupload](https://workupload.com)
+
+## Support and Contact
+You can find the contact details in the "Support and Contact" section.
+
+<p class="warn"> Last updated: 01.04.2023 - List by NeikiDev </p>
