@@ -1,6 +1,15 @@
 # CyberSecurity Useful Tools List
 
-<p class="warn"> This list is not complete and will be updated regularly. </p>
+<p class="warn"> This list is not complete and will be updated regularly - List maintained by NeikiDev </p>
+
+<p class="tip"> Please not that you run these Programs at your own risk! - Dont use more than 2 AVs at once! </p>
+
+## Warnings and Notes
+
+* Dont use more than 2 AVs at once! (AV = Antivirus)
+* Dont run TronScript if you dont know what you are doing!
+* Before trying to fix a problem, make a backup of your system!
+* Dont use Scanners as your main AV!
 
 ## Scanner
 
@@ -35,6 +44,7 @@
 * [tria.ge](https://tria.ge)
 * [any.run](https://app.any.run)
 * [filescan.io](https://filescan.io)
+* [capesandbox.com](https://capesandbox.com/)
 
 ## URL Online Analysis
 
