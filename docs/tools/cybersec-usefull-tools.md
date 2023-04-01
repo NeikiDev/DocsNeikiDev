@@ -8,6 +8,7 @@
 * [HitmanPro - Sophos](https://www.hitmanpro.com/en-us)
 * [Sophos Scan And Clean](https://www.sophos.com/de-de/free-tools/virus-removal-tool)
 * [MalwareBytes Scanner](https://www.malwarebytes.com/mwb-download)
+* [Norton Power Eraser](https://support.norton.com/sp/en/en/home/current/solutions/kb20100824120155EN)
 * [Malwarebytes - AdwareCleaner](https://www.malwarebytes.com/adwcleaner)
 * [Kaspersky Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
 * [Kaspersky Free AntiVirus](https://kaspersky.com/free-antivirus)
