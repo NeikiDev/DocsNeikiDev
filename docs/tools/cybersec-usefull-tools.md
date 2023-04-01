@@ -2,7 +2,7 @@
 
 <p class="warn"> This list is not complete and will be updated regularly - List maintained by NeikiDev </p>
 
-<p class="tip"> Please not that you run these Programs at your own risk! - Dont use more than 2 AVs at once! </p>
+<p class="tip"> Please note that you run these Programs at your own risk! - Dont use more than 2 AVs at once! </p>
 
 ## Warnings and Notes
 
