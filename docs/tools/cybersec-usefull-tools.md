@@ -57,6 +57,9 @@
 * [sitereport.netcraft.com](https://sitereport.netcraft.com)
 * [phish.report](https://phish.report/)
 * [check-dns](https://check-host.net/check-dns)
+* [radar.cloudflare.com](https://radar.cloudflare.com/scan)
+* [safebrowsing.google.com](https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en)
+* [report.netcraft.com](https://report.netcraft.com/report/)
 
 ## Ransomware Tools
 
