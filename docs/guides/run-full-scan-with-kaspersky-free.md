@@ -95,6 +95,7 @@
 
 * You have more options to fix your problem. <br>
 * First you can install second opinion scanners like [Sophos Scan and Clean](https://www.sophos.com/en-us/free-tools/virus-removal-tool). <br>
+* You can also try these [tools](https://docs.neiki.dev/#/tools/cybersec-usefull-tools?id=scanner). <br>
 * You can can also reinstall your computer following this [guide](https://maldroid.dev/ResetWindows). <br>
 * You can join the [Pc Security Channel](https://discord.gg/pcsecuritychannel) and open an Troubleshooting Thread. <br>
 
@@ -202,4 +203,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 31.03.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 02.04.2023 - Guide written by NeikiDev </p>
