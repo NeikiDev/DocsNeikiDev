@@ -50,6 +50,8 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 * Follow [this guide](https://docs.neiki.dev/#/guides/run-full-scan-with-kaspersky-free?id=check-if-ksn-kaspersky-security-network-is-enabled) to enable it in your Kaspersky product.
 * You can also watch [this video part](https://youtu.be/RYySi13PeOs?t=130) to learn how to enable KSN in your Kaspersky product.
 
+# Kaspersky Security Network (KSN) - Data Flow
+
 ![image](https://cdn.discordapp.com/attachments/472046565608128513/1092899469349109812/5151_KSN_buss_scheme_v06.png)
 
 ## Resources to read
