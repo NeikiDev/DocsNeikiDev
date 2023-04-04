@@ -50,13 +50,7 @@ Overall, Kaspersky Security Network is an important component of Kaspersky's cyb
 * Follow [this guide](https://docs.neiki.dev/#/guides/run-full-scan-with-kaspersky-free?id=check-if-ksn-kaspersky-security-network-is-enabled) to enable it in your Kaspersky product.
 * You can also watch [this video part](https://youtu.be/RYySi13PeOs?t=130) to learn how to enable KSN in your Kaspersky product.
 
-## Current Kaspersky Security Network (KSN) Statistics
-
-<p class="warn"> The following KSN Statistics are last manually updated: 29.03.2023 (11:41), they are not accurate! </p>
-
-* Safe objects: `6.332.844.004`
-* Dangerous objects: `1.965.405.579` (30.3%)
-* Processing: `3.725.740.817`
+![image](https://cdn.discordapp.com/attachments/472046565608128513/1092899469349109812/5151_KSN_buss_scheme_v06.png)
 
 ## Resources to read
 
