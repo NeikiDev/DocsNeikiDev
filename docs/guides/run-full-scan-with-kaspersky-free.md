@@ -2,20 +2,22 @@
 
 :link: You can use that Short link to share this guide: [https://neiki.dev/FullScan](https://neiki.dev/FullScan) 
 
-<p class="tip"> If you want to watch a video guide please follow the link below! </p> 
+---
 
-[Full Video Guide (Youtube) - English Version](#full-video-guide-youtube-english-version)
+<p class="tip"> Currently Notification Bug on these Systems: Windows 11 (22H2 & 21H2) - 09.04.2023 </p>
 
-
-## Known Issues
-
-<p class="warn"> Currently Notification Bug on these Systems: Windows 11 (22H2 & 21H2) - 09.04.2023 </p>
+Reported by `Nelis1982#9547` - Report Bugs & Issues to `Neiki#4405` <br>
 
 Bug Description: <br>
 After installing "Update for Microsoft Defender Antivirus antimalware platform - KB5007651 (Version 1.0.2302.21002)", 
 you might receive a security notification or warning stating that "Local Security protection is off. 
 Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-22h2)
 
+---
+
+<p class="warn"> If you want to watch a video guide please follow the link below! </p> 
+
+[Full Video Guide (Youtube) - English Version](#full-video-guide-youtube-english-version)
 
 ## What you need
 
