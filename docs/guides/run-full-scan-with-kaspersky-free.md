@@ -14,10 +14,8 @@
 Bug Description: <br>
 After installing "Update for Microsoft Defender Antivirus antimalware platform - KB5007651 (Version 1.0.2302.21002)", 
 you might receive a security notification or warning stating that "Local Security protection is off. 
-Your device may be vulnerable. 
+Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-22h2)
 
-
-[Read more here](https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-22h2)
 
 ## What you need
 
