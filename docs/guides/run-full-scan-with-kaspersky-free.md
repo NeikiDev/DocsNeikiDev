@@ -6,6 +6,19 @@
 
 [Full Video Guide (Youtube) - English Version](#full-video-guide-youtube-english-version)
 
+
+## Known Issues
+
+<p class="warn"> Currently Notification Bug on these Systems: Windows 11 (22H2 & 21H2) - 09.04.2023 </p>
+
+Bug Description: <br>
+After installing "Update for Microsoft Defender Antivirus antimalware platform - KB5007651 (Version 1.0.2302.21002)", 
+you might receive a security notification or warning stating that "Local Security protection is off. 
+Your device may be vulnerable. 
+
+
+[Read more here](https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-22h2)
+
 ## What you need
 
 > Please download the latest version of Kaspersky Free from [here](https://kaspersky.com/free-antivirus) <br>
