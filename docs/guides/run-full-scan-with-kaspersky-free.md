@@ -65,6 +65,8 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 
 ![KSN](https://cdn.neiki.dev/docs-cdn/kaspersky-ksn-02.png)
 
+![KSN2](https://cdn.neiki.dev/docs-cdn/kaspersky-ksn-03.png)
+
 ## Run a Full scan Extreme Settings (Kaspersky Free)
 
 * After you logged in you should see the Kaspersky Free Launcher
@@ -216,4 +218,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 02.04.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 10.04.2023 - Guide written by NeikiDev </p>
