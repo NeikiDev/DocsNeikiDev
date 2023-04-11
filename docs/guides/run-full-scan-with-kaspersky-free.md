@@ -63,6 +63,8 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 
 ![Settings](https://cdn.neiki.dev/docs-cdn/kaspersky-ksn-01.png)
 
+<p class="tip"> The setting is called "Kaspersky Security Network" or "Data Provision Agreement"  </p>
+
 ![KSN](https://cdn.neiki.dev/docs-cdn/kaspersky-ksn-02.png)
 
 ![KSN2](https://cdn.neiki.dev/docs-cdn/kaspersky-ksn-03.png)
