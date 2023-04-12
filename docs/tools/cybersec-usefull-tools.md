@@ -34,6 +34,11 @@
 * [WireShark](https://www.wireshark.org)
 * [Glasswire](https://www.glasswire.com)
 
+## Windows Utilities Tools
+
+* [wpd.app](https://wpd.app)
+* [christitus.com/windows-tool/](https://christitus.com/windows-tool/)
+
 ## File Online Analysis
 
 * [virustotal.com](https://virustotal.com)
@@ -78,4 +83,4 @@
 ## Support and Contact
 You can find the contact details in the "Support and Contact" section.
 
-<p class="warn"> Last updated: 01.04.2023 - List by NeikiDev </p>
+<p class="warn"> Last updated: 12.04.2023 - List by NeikiDev </p>
