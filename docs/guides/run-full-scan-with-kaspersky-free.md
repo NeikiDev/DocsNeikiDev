@@ -28,6 +28,7 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 * If you have another Antivirus Software installed, please uninstall it first. <br>
 * It is not recommended to have more than one Antivirus Software installed on your computer. <br>
 * You can see [here](https://support.kaspersky.com/kav21/compatibility/15515#block1) the list of incompatible Antivirus Software. <br>
+* [Article about running multiple AVs at on system](https://usa.kaspersky.com/resource-center/preemptive-safety/multiple-antivirus-products)
 
 ## Setup Kaspersky free
 
@@ -220,4 +221,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 10.04.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 13.04.2023 - Guide written by NeikiDev </p>
