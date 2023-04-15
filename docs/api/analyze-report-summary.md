@@ -26,14 +26,12 @@ The Hash is fetched on 5 know online analysis websites (per API) and on one know
 
 ## Score
 
-#### Success Status (200)
-
-The score relies mostly on OpenTip Kaspersky results.
-Triage Sandbox and VirusTotal are the second most important results.
-All others are optional and are not included in the score calculation.
-Optional results are handeld threw `+` or `-` points not as result based calculation.
-The "scripts" below are just examples to show how the score is calculated, the real calculation is done on the server.
-The score is based on all the results from the online analysis websites. The score is calculated by the following formula:
+* The score relies mostly on OpenTip Kaspersky results.
+* Triage Sandbox and VirusTotal are the second most important results.
+* All others are optional and are not included in the score calculation.
+* Optional results are handeld threw `+` or `-` points not as result based calculation.
+* The "scripts" below are just examples to show how the score is calculated, the real calculation is done on the server.
+* The score is based on all the results from the online analysis websites. The score is calculated by the following formula:
 
 #### VirusTotal report
 
