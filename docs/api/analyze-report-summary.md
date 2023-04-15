@@ -33,6 +33,17 @@ The Hash is fetched on 5 know online analysis websites (per API) and on one know
 * The "scripts" below are just examples to show how the score is calculated, the real calculation is done on the server.
 * The score is based on all the results from the online analysis websites. The score is calculated by the following formula:
 
+## Views
+
+* The report views are based on unique views and visitors for every report.
+* The Views are resetted after a `reanalyze` or `rescan` is done.
+* The Viewer Data is not stored in the database!
+* The viewers get an unique encrypted ID (also hashed with SHA256)
+* How the unique ID is generated is private because of security and privacy reasons!
+* If you want to bot views or manipulate it in any way you will get **BANNED** from the website!
+* Only real humans are counted as views! (Protection provided by Cloudflare.com)
+* The views are also powered by Vercel.com and Cloudflare.com
+
 #### VirusTotal report
 
 ```js
