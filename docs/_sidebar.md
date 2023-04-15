@@ -36,6 +36,7 @@
 
   * [Information](/api/information.md)
   * [Analytics](/api/website-analytics-script.md)
+  * [Analyze Report Summary](/api/analyze-report-summary.md)
 
 
 * SUPPORT - HELP
