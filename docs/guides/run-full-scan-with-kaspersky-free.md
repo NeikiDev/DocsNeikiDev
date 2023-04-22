@@ -15,10 +15,6 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 
 ---
 
-<p class="warn"> If you want to watch a video guide please follow the link below! </p> 
-
-[Full Video Guide (Youtube) - English Version](#full-video-guide-youtube-english-version)
-
 ## What you need
 
 > Please download the latest version of Kaspersky Free from [here](https://kaspersky.com/free-antivirus) <br>
@@ -36,6 +32,10 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 * [Download here](https://kaspersky.com/free-antivirus) 
 * `https://kaspersky.com/free-antivirus`
 * Open Kaspersky Free Launcher you just downloaded
+
+<p class="warn"> If you want to watch a video guide please follow the link below! </p> 
+
+[Full Video Guide (Youtube) - English Version](#full-video-guide-youtube-english-version)
 
 ## Install Process (Kaspersky Free)
 
@@ -221,4 +221,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 13.04.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 22.04.2023 - Guide written by NeikiDev </p>
