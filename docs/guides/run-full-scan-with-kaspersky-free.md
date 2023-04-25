@@ -114,7 +114,7 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 * You have more options to fix your problem. <br>
 * First you can install second opinion scanners like [Sophos Scan and Clean](https://www.sophos.com/en-us/free-tools/virus-removal-tool). <br>
 * You can also try these [tools](https://docs.neiki.dev/#/tools/cybersec-usefull-tools?id=scanner). <br>
-* You can can also reinstall your computer following this [guide](https://maldroid.dev/ResetWindows). <br>
+* You can can also reinstall your computer following this [guide](https://neiki.dev/ReinstallWindows). <br>
 * You can join the [Pc Security Channel](https://discord.gg/pcsecuritychannel) and open an Troubleshooting Thread. <br>
 
 ## What should i do if it worked?
