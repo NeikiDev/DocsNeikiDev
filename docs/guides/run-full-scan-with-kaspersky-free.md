@@ -60,7 +60,8 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 * Scroll down to `Advanced protection` 
 * It might have a different name in your language. (For example: `Data provision agreement`)
 * It might also be called `Kaspersky Security Network` in your language.
-* Make sure both `Kaspersky Security Network` is **enabled** (ON)
+* Make sure `Kaspersky Security Network` is **enabled** (ON)
+* Second option is optional, you can enable it if you want to help Kaspersky to improve their products!
 
 ![Settings](https://cdn.neiki.dev/docs-cdn/kaspersky-ksn-01.png)
 
@@ -221,4 +222,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 22.04.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 29.04.2023 - Guide written by NeikiDev </p>
