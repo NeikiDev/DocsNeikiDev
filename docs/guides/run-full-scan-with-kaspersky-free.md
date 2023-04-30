@@ -18,6 +18,7 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 ## What you need
 
 > Please download the latest version of Kaspersky Free from [here](https://www.kaspersky.com/free-antivirus) <br>
+[`https://www.kaspersky.com/free-antivirus`](https://www.kaspersky.com/free-antivirus)
 
 ## Uninstall other Antivirus Software
 
@@ -222,4 +223,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 29.04.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 30.04.2023 - Guide written by NeikiDev </p>
