@@ -20,7 +20,7 @@
 * [Norton Power Eraser](https://support.norton.com/sp/en/en/home/current/solutions/kb20100824120155EN)
 * [Malwarebytes - AdwareCleaner](https://www.malwarebytes.com/adwcleaner)
 * [Kaspersky Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
-* [Kaspersky Free AntiVirus](https://kaspersky.com/free-antivirus)
+* [Kaspersky Free AntiVirus](https://www.kaspersky.com/free-antivirus)
 * [Kaspersky RootKit Scanner](https://support.kaspersky.com/common/disinfection/5350)
 * [Kaspersky Utility](https://support.kaspersky.com/utility)
 * [Kaspersky Rescue Disk](https://support.kaspersky.com/krd18)

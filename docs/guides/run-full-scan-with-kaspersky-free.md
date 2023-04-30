@@ -17,7 +17,7 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 
 ## What you need
 
-> Please download the latest version of Kaspersky Free from [here](https://kaspersky.com/free-antivirus) <br>
+> Please download the latest version of Kaspersky Free from [here](https://www.kaspersky.com/free-antivirus) <br>
 
 ## Uninstall other Antivirus Software
 
@@ -29,8 +29,8 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 ## Setup Kaspersky free
 
 * Download and install Kaspersky Free
-* [Download here](https://kaspersky.com/free-antivirus) 
-* `https://kaspersky.com/free-antivirus`
+* [Download here](https://www.kaspersky.com/free-antivirus) 
+* `https://www.kaspersky.com/free-antivirus`
 * Open Kaspersky Free Launcher you just downloaded
 
 <p class="warn"> If you want to watch a video guide please follow the link below! </p> 
