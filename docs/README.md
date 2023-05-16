@@ -66,4 +66,18 @@ You can find the contact details in the "Support and Contact" section.
 
 [Made with Docsify](https://docsify.js.org/#/)
 
+## Advertisment - Support us
+
+<p class="tip"> All links displayed below are Amazon affiliate links. </p>
+
+<a target="_blank" href="https://www.amazon.de/b?_encoding=UTF8&tag=neikidevamazo-21&linkCode=ur2&linkId=1873b1a84d0a24f5b887cbf1143243a0&camp=1638&creative=6742&node=301129">Shop the latest PC video games and level up your gaming experience*</a>
+
+<a target="_blank" href="https://www.amazon.de/b?_encoding=UTF8&tag=neikidevamazo-21&linkCode=ur2&linkId=55f55d189cc49e93796e9787ca57b804&camp=1638&creative=6742&node=16435051">Get fit and feel great with our top-rated sports and fitness gear*</a>
+
+<a target="_blank" href="https://www.amazon.de/b?_encoding=UTF8&tag=neikidevamazo-21&linkCode=ur2&linkId=b39f15bbfebddd4f494328c8411aa977&camp=1638&creative=6742&node=12759351">Protect your devices from cyber threats with our top-rated antivirus and internet security software*</a>
+
+<a target="_blank" href="https://www.amazon.de/b?_encoding=UTF8&tag=neikidevamazo-21&linkCode=ur2&linkId=b559dffe1696afef4c39ff6ef3d88a0a&camp=1638&creative=6742&node=14650816031"> Optimize your network and server performance with our top-rated software</a>
+
+<a target="_blank" href="https://www.amazon.de/b?_encoding=UTF8&tag=neikidevamazo-21&linkCode=ur2&linkId=66d64cac198b3eadf9f2067e02716f5c&camp=1638&creative=6742&node=193707031">Discover the latest trends and find amazing deals on the best-selling clocks and timepieces.</a>
+
 <p class="warn"> Last updated: 13.03.2023 </p>
