@@ -1,4 +1,9 @@
 
+<center>
+<!-- Amazon Banner - Prime Video -->
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=3&p=48&l=ur1&category=prime_video&banner=14MYC33M7WK26YVEBN82&f=ifr&linkID={{link_id}}&t=neikidevamazo-21&tracking_id=neikidevamazo-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
+</center>
+
 ## Introduction
 
 Welcome to the documentation website for the `*.neiki.dev` network! 
@@ -19,6 +24,11 @@ Thank you for choosing the `*.neiki.dev` network. We look forward to helping you
 [https://github.com/NeikiDev/DocsNeikiDev](https://github.com/NeikiDev/DocsNeikiDev)
 
 ![GitHub](https://img.shields.io/github/last-commit/neikidev/DocsNeikiDev?style=for-the-badge)
+
+<center>
+    <!-- Amazon Banner - Basic -->
+      <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=3&p=48&l=ur1&category=amazongeneric&banner=073MC7ZPJHQ7M2BYBHR2&f=ifr&linkID={{link_id}}&t=neikidevamazo-21&tracking_id=neikidevamazo-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
+</center>
 
 ## Getting Started
 
@@ -69,6 +79,10 @@ You can find the contact details in the "Support and Contact" section.
 ## Advertisment - Support us
 
 <p class="tip"> All links displayed below are Amazon affiliate links. </p>
+
+<center>
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=3&p=48&l=ur1&category=prime_video&banner=14MYC33M7WK26YVEBN82&f=ifr&linkID={{link_id}}&t=neikidevamazo-21&tracking_id=neikidevamazo-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
+</center>
 
 <a target="_blank" href="https://www.amazon.de/b?_encoding=UTF8&tag=neikidevamazo-21&linkCode=ur2&linkId=1873b1a84d0a24f5b887cbf1143243a0&camp=1638&creative=6742&node=301129">Shop the latest PC video games and level up your gaming experience*</a>
 
