@@ -31,7 +31,9 @@ Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/e
 
 * Download and install Kaspersky Free
 * [Download here](https://www.kaspersky.com/free-antivirus) 
+* [Alternative Global version here](https://www.kaspersky.com/downloads/free-antivirus)
 * `https://www.kaspersky.com/free-antivirus`
+* `https://www.kaspersky.com/downloads/free-antivirus`
 * Open Kaspersky Free Launcher you just downloaded
 
 <p class="warn"> If you want to watch a video guide please follow the link below! </p> 
@@ -223,4 +225,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 30.04.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 17.05.2023 - Guide written by NeikiDev </p>
