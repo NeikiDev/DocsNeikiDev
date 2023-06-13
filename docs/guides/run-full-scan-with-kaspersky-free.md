@@ -2,19 +2,6 @@
 
 :link: You can use that Short link to share this guide: [https://neiki.dev/FullScan](https://neiki.dev/FullScan) 
 
----
-
-<p class="tip"> Currently Notification Bug on these Systems: Windows 11 (22H2 & 21H2) - 09.04.2023 </p>
-
-Reported by `Nelis1982#9547` - Report Bugs & Issues to `Neiki#4405` <br>
-
-Bug Description: <br>
-After installing "Update for Microsoft Defender Antivirus antimalware platform - KB5007651 (Version 1.0.2302.21002)", 
-you might receive a security notification or warning stating that "Local Security protection is off. 
-Your device may be vulnerable..." [Read more here](https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-22h2)
-
----
-
 ## What you need
 
 > Please download the latest version of Kaspersky Free from [here](https://www.kaspersky.com/free-antivirus) <br>
@@ -225,4 +212,4 @@ If you have any questions or run into any issues while using our Docs or Guides,
 please don't hesitate to contact us. <br>
 You can find our contact information in the Support and Contact section.
 
-<p class="warn"> Last updated: 17.05.2023 - Guide written by NeikiDev </p>
+<p class="warn"> Last updated: 13.06.2023 - Guide written by NeikiDev </p>
