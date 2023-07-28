@@ -70,6 +70,7 @@
 
 * [NoMoreRansomware.org](https://www.nomoreransom.org/en/index.html)
 * [Identify Ransomware](https://id-ransomware.malwarehunterteam.com/)
+* [Kaspersky Decrypt Tools](https://noransom.kaspersky.com/)
 
 ## File Upload
 
