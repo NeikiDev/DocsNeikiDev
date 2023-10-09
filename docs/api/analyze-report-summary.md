@@ -59,7 +59,7 @@ if (malicious < 10) {
 }
 ```
 
-<p class="warn"> All other calculations are private and not shown! DM Neiki#4405 on discord for more information. </p>
+<p class="warn"> All other calculations are private and not shown! email contact@neiki.dev for more information. </p>
 
 ## VirusTotal comment
 

@@ -146,8 +146,7 @@
 
 ### Do you need further help?
 
-* You can always DM me on Discord (Neiki#4405). <br>
-* You can email me at `neikianalytics@gmail.com` <br>
+* You can email me at `contact@neiki.dev` <br>
 * Or join the [PC Security Channel Discord](https://discord.gg/pcsecuritychannel)
 * I do not help with cracked / pirated software. <br>
 
