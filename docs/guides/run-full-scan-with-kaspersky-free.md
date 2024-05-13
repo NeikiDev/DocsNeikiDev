@@ -4,8 +4,8 @@
 
 ## What you need
 
-> Please download the latest version of Kaspersky Free from [here](https://www.kaspersky.com/free-antivirus) <br>
-[`https://www.kaspersky.com/free-antivirus`](https://www.kaspersky.com/free-antivirus)
+> Please download the latest version of Kaspersky Free from [here](https://www.kaspersky.com/downloads/free-antivirus) <br>
+[`https://www.kaspersky.com/downloads/free-antivirus`](https://www.kaspersky.com/downloads/free-antivirus)
 
 ## Uninstall other Antivirus Software
 
@@ -17,9 +17,7 @@
 ## Setup Kaspersky free
 
 * Download and install Kaspersky Free
-* [Download here](https://www.kaspersky.com/free-antivirus) 
-* [Alternative Global version here](https://www.kaspersky.com/downloads/free-antivirus)
-* `https://www.kaspersky.com/free-antivirus`
+* [Download here](https://www.kaspersky.com/downloads/free-antivirus) 
 * `https://www.kaspersky.com/downloads/free-antivirus`
 * Open Kaspersky Free Launcher you just downloaded
 

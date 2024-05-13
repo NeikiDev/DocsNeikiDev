@@ -86,7 +86,7 @@
 * Don't download files from people you don't trust
 * Don't give your Discord Account information to people you don't trust
 * Close your Direct Messages to unknown people
-* Install an Anti-Virus Software like [Kaspersky Free](https://www.kaspersky.com/free-antivirus)
+* Install an Anti-Virus Software like [Kaspersky Free](https://www.kaspersky.com/downloads/free-antivirus)
 * Unlink your Discord Account from your Social Media Accounts
 * Unlink your social media accounts from your Discord Account
 * Dont join phishi Discord Servers
